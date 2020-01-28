@@ -1,0 +1,388 @@
+,energy1,energy1label,energy2,energy2label,reference,modified,published,municipality,adressdescription,postalcode,euro/m²,price,honoraires,heating,rooms,pieces,dummygarden,bathroom,dummyterrace,dummycellar,dummyparking,dummyelevator,livingsurface,totalsurface
+0,Vierge,NA,Vierge,NA,GB00092048,21 nov  2019 ,,Tourcoing,Blanche Porte - Flocon ,59200 ,484.0,192187, honoraires à la charge du vendeur,,, 1 ,,,,1.0,1.0,, 397,
+1,143,C,25,D,VNMW1668,30 nov  2019 ,,Roubaix,Fresnoy - Mackellerie ,59100 ,1714.0,625000,  4, Gaz Individuel, 6, 9 ,1.0,,,1.0,1.0,, 350,1000.0
+2,267,E,53,E,VM23257-IMMOTRAM2,5 dec  2019 ,,Roubaix,,59100,1152.0,399000,  5, gaz individuel, 7, 9 ,1.0, 2 ,,1.0,1.0,, 330,731.0
+3,134,C,31,D,ROUB-350k-13857,30 nov  2019 ,,Roubaix,Sainte-Elisabeth ,59100 ,1061.0,350000,,, 5, 9 ,,,,,,, 330,
+4,189,D,44,E,SO1641,23 oct  2019 ,,Roubaix,Barbieux - Edouard Vaillant - Vauban ,59100 ,1667.0,500000, honoraires à la charge du vendeur, radiateur gaz individuel, 7, 9 ,1.0, 2 ,,1.0,,, 300,650.0
+5,En cours de réalisation,NA,En cours de réalisation,NA,24846238,,,Tourcoing,,59200,730.0,219000, honoraires à la charge du vendeur, ELECTRICITE INDIVIDUEL,, 3 ,1.0, 1 ,,,1.0,,,
+6,159,D,,E,96746MX2220,13 dec  2019 ,5 nov  2019 ,Roubaix,,59100,1407.0,394000, honoraires à la charge du vendeur,, 5, 9 ,1.0, 1 ,,,1.0,, 280,500.0
+7,Non soumis,NA,En cours de réalisation,NA,3904067,,13 dec  2019 ,Roubaix,Fosses aux Chênes - Alma Gare ,59100 ,941.0,254000, honoraires à la charge du vendeur, gaz,,,,,,,,, 270,
+8,200,D,En cours de réalisation,NA,12423673,22 oct  2019 ,,Roubaix,,59100,1256.0,339000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 5, 9 ,1.0, 2 ,,,,,,
+9,Vierge,NA,En cours de réalisation,NA,1111,6 dec  2019 ,6 nov  2019 ,Tourcoing,Centre-ville ,59200 ,1280.0,320000, honoraires à la charge du vendeur, gaz individuel, 5, 7 ,, 2 ,,,,, 250,
+10,En cours de réalisation,NA,En cours de réalisation,NA,27657865,13 dec  2019 ,,Tourcoing,,59200,1340.0,335000, honoraires à la charge du vendeur, GAZ, 5, 6 ,1.0, 2 ,,1.0,1.0,,,
+11,175,D,30,D,VM23878-IMMOTRAM2,5 dec  2019 ,23 nov  2019 ,Tourcoing,,59200,1460.0,380000,  4, gaz, 6, 7 ,, 3 ,,1.0,,, 250,
+12,154,D,,D,97571MX2220,13 dec  2019 ,5 nov  2019 ,Roubaix,,59100,903.0,224000, honoraires à la charge du vendeur,, 4, 9 ,1.0, 1 ,,,1.0,, 248,24.0
+13,254,E,19,C,1VDU10000030,17 dec  2019 ,,Roubaix,Hommelet ,59100 ,1313.0,288750,, radiateur électrique individuel, 4, 8 ,,,,,,1.0, 220,
+14,34,A,165,G,VM23718-IMMOTRAM2,,,Roubaix,,59100,1868.0,429000,  4, gaz individuel, 6, 7 ,1.0, 1 ,,1.0,,, 219,193.0
+15,146,C,28,D,120901E12603,28 nov  2019 ,,Tourcoing,Centre-ville ,59200 ,1197.0,253800, honoraires à la charge du vendeur, individuel, 4, 5 ,1.0, 2 ,,,,, 212,15.0
+16,160,D,24,D,6995,17 dec  2019 ,,Tourcoing,Centre-ville ,59200 ,1214.0,269000,  5, gaz, 4, 6 ,, 1 ,,1.0,1.0,, 210,
+17,150,C,En cours de réalisation,NA,27062421,1 nov  2019 ,,Tourcoing,,59200,1343.0,282000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 5, 6 ,1.0, 1 ,,,1.0,,,
+18,Non soumis,NA,En cours de réalisation,NA,3892551,,6 dec  2019 ,Roubaix,Barbieux - Edouard Vaillant - Vauban ,59100 ,1854.0,380000, honoraires à la charge du vendeur, gaz, 4, 7 ,1.0, 1 ,,,1.0,, 205,340.0
+19,140,C,32,D,27354541,4 dec  2019 ,,Tourcoing,Virolois ,59200 ,1522.0,309000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 5, 6 ,1.0, 1 ,1.0,1.0,1.0,,,136.0
+20,999,G,999,G,VA22227-IMMOTRAM2,,23 oct  2019 ,Tourcoing,,59200,1400.0,295000,  5, gaz, 5, 9 ,, 1 ,,,,, 200,
+21,Non soumis,NA,En cours de réalisation,NA,VM23870-IMMOTRAM2,9 dec  2019 ,26 nov  2019 ,Roubaix,,59100,1500.0,315000,  5, électricité, 4, 5 ,, 2 ,,1.0,1.0,, 200,
+22,Vierge,NA,En cours de réalisation,NA,103261MX2220,13 dec  2019 ,24 nov  2019 ,Roubaix,,59100,979.0,186000, honoraires à la charge du vendeur,, 7, 9 ,1.0, 1 ,,,,, 190,15.0
+23,146,C,28,D,4350UBI,29 nov  2019 ,22 oct  2019 ,Tourcoing,Centre-ville ,59200 ,1320.0,250800, honoraires à la charge du vendeur,, 4, 5 ,, 1 ,,1.0,,, 190,
+24,Vierge,NA,En cours de réalisation,NA,1114,6 dec  2019 ,13 nov  2019 ,Tourcoing,Centre-ville ,59200 ,1076.0,199000, honoraires à la charge du vendeur, gaz individuel, 3, 4 ,, 1 ,,,1.0,, 185,
+25,Vierge,NA,En cours de réalisation,NA,7443,11 dec  2019 ,,Tourcoing,Brun Pain - Francs - Clinquet ,59200 ,1486.0,290000,  5, gaz individuel, 4, 5 ,, 2 ,,,1.0,, 185,
+26,300,E,En cours de réalisation,NA,17513770,,,Tourcoing,,59200,1772.0,319000, honoraires à la charge du vendeur, RADIATEUR ELECTRICITE INDIVIDUEL, 5, 7 ,1.0, 1 ,,1.0,,,,70.0
+27,Vierge,NA,En cours de réalisation,NA,860,6 dec  2019 ,,Tourcoing,Centre-ville ,59200 ,1272.0,229000, honoraires à la charge du vendeur, gaz individuel, 4, 5 ,, 1 ,,,,, 180,
+28,152,D,,D,97948MX2220,13 dec  2019 ,5 nov  2019 ,Tourcoing,,59200,1640.0,287000, honoraires à la charge du vendeur,, 3, 6 ,1.0, 1 ,,,1.0,, 175,225.0
+29,Non soumis,NA,En cours de réalisation,NA,VM23884-IMMOTRAM2,5 dec  2019 ,4 dec  2019 ,Roubaix,,59100,853.0,155000,  6, gaz, 3, 4 ,1.0, 1 ,,1.0,,, 170,163.0
+30,161,D,37,E,120901E0JH9U,28 nov  2019 ,,Tourcoing,Croix Rouge ,59200 ,1862.0,316500, honoraires à la charge du vendeur, individuel, 10, 11 ,1.0, 4 ,,,1.0,, 170,80.0
+31,146,C,28,D,785,6 dec  2019 ,29 nov  2019 ,Tourcoing,Centre-ville ,59200 ,1465.0,249000, honoraires à la charge du vendeur, gaz individuel, 4, 6 ,, 2 ,,,,, 170,
+32,127,C,19,C,V150003820,28 nov  2019 ,,Tourcoing,Gambetta ,59200 ,1941.0,345000,  4, radiateur gaz individuel, 4, 5 ,, 4 ,,,,, 170,
+33,Non soumis,NA,En cours de réalisation,NA,VA23506-IMMOTRAM2,5 dec  2019 ,,Roubaix,,59100,1339.0,236000,  4, gaz individuel, 3, 4 ,, 1 ,,,,, 168,
+34,En cours de réalisation,NA,En cours de réalisation,NA,120901E1FG4Q,28 nov  2019 ,,Roubaix,Epeule - Trichon ,59100 ,938.0,150000, honoraires à la charge du vendeur, individuel, 6, 7 ,1.0,,,,,, 160,30.0
+35,173,D,41,E,27788804,,7 dec  2019 ,Tourcoing,Virolois ,59200 ,1469.0,235000, honoraires à la charge du vendeur, INDIVIDUEL, 3, 4 ,,,,,1.0,1.0, 160,
+36,Vierge,NA,En cours de réalisation,NA,1061,6 dec  2019 ,,Tourcoing,Centre-ville ,59200 ,2281.0,365000, honoraires à la charge du vendeur, fuel individuel, 5, 6 ,, 1 ,,,1.0,, 160,
+37,Non soumis,NA,Non soumis,NA,DGVMA40000020,17 dec  2019 ,,Roubaix,Epeule - Trichon ,59100 ,1019.0,159000, honoraires à la charge du vendeur,, 3, 3 ,,,1.0,1.0,,, 156,
+38,258,E,60,F,73154,14 dec  2019 ,10 dec  2019 ,Tourcoing,,59200,2147.0,350000,  4, gaz individuel, 3, 8 ,, 1 ,,1.0,,1.0, 156,
+39,63,B,14,C,4487,21 nov  2019 ,,Tourcoing,Virolois ,59200 ,1286.0,199000, honoraires à la charge du vendeur, gaz individuel, 3, 4 ,, 2 ,,,1.0,1.0,74,
+40,Vierge,NA,En cours de réalisation,NA,VM23744-IMMOTRAM2,,,Tourcoing,,59200,2233.0,350000,  4, gaz individuel, 6, 6 ,1.0, 1 ,,,1.0,, 150,454.0
+41,212,D,37,E,VM23880-IMMOTRAM2,14 dec  2019 ,27 nov  2019 ,Tourcoing,,59200,2380.0,374000,  4, gaz individuel, 4, 5 ,1.0, 1 ,,1.0,1.0,, 150,356.0
+42,152,D,19,C,21565910,,,Roubaix,,59100,987.0,148000, honoraires à la charge du vendeur, RADIATEUR FUEL INDIVIDUEL, 4, 5 ,1.0, 1 ,,1.0,,,,140.0
+43,En cours de réalisation,NA,En cours de réalisation,NA,120901E1854E,11 dec  2019 ,,Tourcoing,Blanche Porte - Flocon ,59200 ,790.0,118500, honoraires à la charge du vendeur, individuel, 3, 4 ,1.0, 1 ,,,,, 150,36.0
+44,288,E,16,C,1089,6 dec  2019 ,,Tourcoing,Centre-ville ,59200 ,2033.0,305000, honoraires à la charge du vendeur, électricité individuel, 3, 4 ,, 1 ,,,1.0,, 150,
+45,NA,NA,NA,NA,ROUBA3,13 dec  2019 ,,Roubaix,Barbieux - Edouard Vaillant - Vauban ,59100 ,,159000,,,, 1 à 4 ,,,,,,, 41 à 143,
+46,227,D,43,E,4494,7 dec  2019 ,7 dec  2019 ,Tourcoing,Centre-ville ,59200 ,1754.0,249000, honoraires à la charge du vendeur, gaz individuel, 3, 4 ,, 1 ,,1.0,,, 142,
+47,217,D,50,E,120003E18WIS,28 nov  2019 ,,Tourcoing,Epidème ,59200 ,1027.0,147500,  2, individuel, 3, 4 ,1.0, 2 ,,,,, 140,91.0
+48,155,D,41,E,24817894,16 nov  2019 ,,Tourcoing,,59200,1036.0,145000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 5, 6 ,1.0, 1 ,,,1.0,,,65.0
+49,215,D,7,B,28388943,,26 nov  2019 ,Roubaix,,59100,1290.0,178000, honoraires à la charge du vendeur, RADIATEUR ELECTRICITE INDIVIDUEL, 3, 4 ,1.0, 1 ,,1.0,1.0,,,
+50,140,C,20,C,VA23558-IMMOTRAM2,5 dec  2019 ,,Tourcoing,,59200,1522.0,220000,  4, gaz collectif, 2, 3 ,, 1 ,,1.0,,, 138,
+51,NA,NA,NA,NA,52-VMO-213581,,16 dec  2019 ,Roubaix,Hommelet ,59100 ,2007.0,272900,,, 4, 5 ,,,,,,, 136,
+52,300,E,,E,17488676,,,Roubaix,,59100,911.0,123000, honoraires à la charge du vendeur, poele pellet + buche BOIS INDIVIDUEL, 4, 7 ,, 1 ,,,,, 135,
+53,148,C,27,D,VM23732-IMMOTRAM2,,,Roubaix,,59100,1037.0,148500,  6, gaz individuel, 4, 5 ,, 1 ,,,,, 135,
+54,151,D,En cours de réalisation,NA,957,6 dec  2019 ,,Tourcoing,Centre-ville ,59200 ,1185.0,160000, honoraires à la charge du vendeur, gaz individuel, 2, 3 ,, 1 ,,,1.0,, 135,
+55,265,E,49,E,VM23740-IMMOTRAM2,17 dec  2019 ,20 nov  2019 ,Tourcoing,,59200,1481.0,210000,  5, gaz individuel, 4, 5 ,, 1 ,,,,, 135,
+56,230,D,En cours de réalisation,NA,27778632,28 nov  2019 ,23 oct  2019 ,Tourcoing,,59200,1770.0,239000, honoraires à la charge du vendeur, RADIATEUR GRANULES INDIVIDUEL, 3, 4 ,1.0, 2 ,1.0,,1.0,,,
+57,215,D,7,B,VA23500-IMMOTRAM2,,,Roubaix,,59100,1278.0,178000,  4, électricité individuel, 3, 4 ,, 1 ,,,1.0,, 133,
+58,Non soumis,NA,En cours de réalisation,NA,VA23474-IMMOTRAM2,,,Roubaix,,59100,1917.0,267000,  4, gaz collectif, 2, 4 ,, 1 ,,1.0,,, 133,
+59,999,G,999,G,VA2095-IMMOMETRO2,6 dec  2019 ,30 oct  2019 ,Roubaix,,59100,1917.0,267000,  4, gaz collectif, 2, 3 ,, 1 ,,,,, 133,
+60,Vierge,NA,Vierge,NA,1351GL2719,29 nov  2019 ,,Tourcoing,Gambetta ,59200 ,1500.0,195000, honoraires à la charge du vendeur,, 3, 5 ,1.0,,,,,, 130,202.0
+61,157,D,17,C,120901E1GQNK,9 dec  2019 ,18 nov  2019 ,Tourcoing,Croix Rouge ,59200 ,1631.0,212000, honoraires à la charge du vendeur, individuel, 3, 4 ,1.0, 2 ,,,1.0,, 130,95.0
+62,Vierge,NA,En cours de réalisation,NA,VM23704-IMMOTRAM2,5 dec  2019 ,4 dec  2019 ,Tourcoing,,59200,1538.0,210000,  5, gaz individuel, 4, 5 ,1.0, 2 ,,1.0,,, 130,94.0
+63,107,C,25,D,4495,29 nov  2019 ,27 nov  2019 ,Tourcoing,Blanche Porte - Flocon ,59200 ,1460.0,189750, honoraires à la charge du vendeur, gaz individuel, 4, 5 ,1.0, 1 ,,1.0,,, 130,90.0
+64,101,C,23,D,SO1642,29 nov  2019 ,,Roubaix,Fraternité - Chemin Neuf - Justice ,59100 ,2019.0,262500, honoraires à la charge du vendeur, radiateur gaz individuel, 4, 6 ,1.0,,,,,, 130,80.0
+65,97,C,22,D,120906E1AEE7,18 dec  2019 ,,Roubaix,Cartigny - Hutin ,59100 ,1322.0,171800, honoraires à la charge du vendeur, individuel, 5, 6 ,1.0, 1 ,,,,, 130,60.0
+66,168,D,15,C,so1692,29 nov  2019 ,,Roubaix,Pile ,59100 ,1215.0,158000, honoraires à la charge du vendeur, radiateur électrique individuel, 4, 5 ,1.0, 1 ,,1.0,,, 130,50.0
+67,180,D,180,G,25394056,,,Tourcoing,,59200,1338.0,174000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 5, 6 ,1.0,,,,,,,50.0
+68,200,D,6,B,18519492,,,Roubaix,,59100,1223.0,159000, honoraires à la charge du vendeur, RADIATEUR ELECTRICITE INDIVIDUEL, 6, 7 ,, 1 ,,,,, 130,
+69,150,C,10,B,21565609,,,Tourcoing,,59200,1454.0,189000, honoraires à la charge du vendeur, AIR PULSE pellets et elect INDIVIDUEL, 3, 4 ,, 1 ,,,1.0,, 130,
+70,220,D,51,E,120901E1A8VA,28 nov  2019 ,13 nov  2019 ,Tourcoing,Brun Pain - Francs - Clinquet ,59200 ,1672.0,209000, honoraires à la charge du vendeur, individuel, 4, 5 ,1.0,,,,,, 125,160.0
+71,184,D,,E,98185MX2220,13 dec  2019 ,5 nov  2019 ,Roubaix,,59100,1264.0,158000, honoraires à la charge du vendeur,, 5, 7 ,1.0, 1 ,,,,, 125,150.0
+72,135,C,25,D,27054996,22 oct  2019 ,,Tourcoing,,59200,1344.0,168000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 4, 5 ,1.0, 1 ,,1.0,,,,80.0
+73,173,D,8,B,70899,30 nov  2019 ,29 nov  2019 ,Tourcoing,,59200,1920.0,255000,  6, individuel, 4, 8 ,, 2 ,,,,, 125,
+74,186,D,8,B,TOUR-180k-11944,30 nov  2019 ,,Tourcoing,Blanc Seau ,59200 ,1463.0,180000,,, 2, 6 ,,,,,,, 123,
+75,97,C,22,D,120901E18QIU,28 nov  2019 ,,Roubaix,Fresnoy - Mackellerie ,59100 ,1092.0,132150, honoraires à la charge du vendeur, individuel, 4, 5 ,1.0, 2 ,,,,, 121,25.0
+76,92,C,21,D,4503,,5 dec  2019 ,Tourcoing,Blanc Seau ,59200 ,1908.0,229000, honoraires à la charge du vendeur, gaz individuel, 3, 4 ,1.0, 1 ,,1.0,1.0,, 120,100.0
+77,145,C,4,A,so1592,29 nov  2019 ,,Roubaix,Pile ,59100 ,1325.0,159000, honoraires à la charge du vendeur, électrique individuel, 4, 5 ,1.0, 1 ,,,,, 120,67.0
+78,222,D,52,E,7500,28 nov  2019 ,31 oct  2019 ,Tourcoing,Blanc Seau ,59200 ,1333.0,169000,  5, gaz individuel, 4, 5 ,, 1 ,,,,, 120,
+79,230,D,35,D,28399772,,27 nov  2019 ,Tourcoing,,59200,1742.0,209000, honoraires à la charge du vendeur, RADIATEUR ELECTRICITE INDIVIDUEL, 3, 4 ,, 1 ,,,1.0,1.0, 120,
+80,En cours de réalisation,NA,En cours de réalisation,NA,26065492,,20 nov  2019 ,Tourcoing,,59200,1950.0,234000, honoraires à la charge du vendeur, RADIATEUR ELECTRICITE INDIVIDUEL, 2, 3 ,1.0, 1 ,,,1.0,1.0,,
+81,114,C,26,D,1132,6 dec  2019 ,29 nov  2019 ,Tourcoing,Centre-ville ,59200 ,1629.0,189000, honoraires à la charge du vendeur, gaz individuel, 2, 3 ,, 1 ,,1.0,1.0,, 116,
+82,174,D,,E,103557MX2220,13 dec  2019 ,11 dec  2019 ,Roubaix,,59100,1913.0,220000, honoraires à la charge du vendeur,, 3, 5 ,1.0, 1 ,,,1.0,, 115,274.0
+83,145,C,4,A,VM23347-IMMOTRAM2,5 dec  2019 ,,Roubaix,,59100,1322.0,160000,  5, électricité, 4, 5 ,1.0,,,1.0,,, 115,67.0
+84,,D,,C,so1681,29 nov  2019 ,,Roubaix,Sainte-Elisabeth ,59100 ,1243.0,143000, honoraires à la charge du vendeur, radiateur gaz individuel, 3, 4 ,1.0, 1 ,,,,, 115,60.0
+85,210,D,,D,17484576,,,Roubaix,,59100,843.0,97000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 4, 7 ,,,,1.0,,, 115,
+86,257,E,46,E,4485,29 nov  2019 ,26 oct  2019 ,Roubaix,Fresnoy - Mackellerie ,59100 ,948.0,109000, honoraires à la charge du vendeur, gaz individuel, 4, 5 ,, 1 ,,1.0,,, 115,
+87,Vierge,NA,En cours de réalisation,NA,1075,6 dec  2019 ,,Tourcoing,Centre-ville ,59200 ,1461.0,168000, honoraires à la charge du vendeur, gaz individuel, 3, 4 ,, 1 ,,,,, 115,
+88,230,D,5,A,22687105,,,Roubaix,,59100,1643.0,189000, honoraires à la charge du vendeur, RADIATEUR ELECTRICITE + GRANULES INDIVIDUEL, 2, 3 ,1.0, 1 ,,,1.0,,,
+89,En cours de réalisation,NA,En cours de réalisation,NA,120906E1BZN1,3 dec  2019 ,,Roubaix,Sartel - Carihem - Trois Ponts ,59100 ,1703.0,194100, honoraires à la charge du vendeur, individuel, 4, 5 ,1.0, 2 ,,,,, 114,110.0
+90,Vierge,NA,,G,so1718,29 nov  2019 ,29 oct  2019 ,Roubaix,Sainte-Elisabeth ,59100 ,1398.0,158000, honoraires à la charge du vendeur, radiateur gaz individuel, 4, 7 ,1.0, 1 ,,,,, 113,111.0
+91,135,C,32,D,VM23635-IMMOTRAM2,30 oct  2019 ,,Roubaix,,59100,2182.0,252000,  4, gaz individuel, 4, 5 ,1.0, 1 ,,1.0,1.0,, 110,455.0
+92,215,D,55,E,VM23613-IMMOTRAM2,,,Roubaix,,59100,2045.0,235000,  4, fuel, 3, 5 ,1.0, 1 ,,1.0,1.0,, 110,116.0
+93,180,D,180,G,27224049,14 dec  2019 ,,Tourcoing,,59200,1491.0,164000, honoraires à la charge du vendeur, GAZ, 3, 4 ,1.0, 1 ,,,,,,100.0
+94,173,D,40,E,28507481,8 dec  2019 ,7 dec  2019 ,Tourcoing,,59200,1764.0,194000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 4, 5 ,1.0, 1 ,,,,,,100.0
+95,227,D,9,B,VM23700-IMMOTRAM2,,7 nov  2019 ,Tourcoing,,59200,1500.0,175000,  6, électricité individuel, 4, 5 ,1.0, 1 ,,1.0,,, 110,83.0
+96,102,C,23,D,VM23479-IMMOTRAM2,5 dec  2019 ,3 dec  2019 ,Tourcoing,,59200,1527.0,177000,  5, gaz, 3, 4 ,1.0, 1 ,,,,, 110,60.0
+97,143,C,21,D,15191944,,,Tourcoing,,59200,1482.0,163000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 3, 4 ,1.0, 1 ,,,,,,50.0
+98,142,C,33,D,2865,23 nov  2019 ,16 nov  2019 ,Roubaix,Barbieux - Edouard Vaillant - Vauban ,59100 ,1755.0,193000, honoraires à la charge du vendeur,, 3, 4 ,1.0,,,,,, 110,50.0
+99,Vierge,NA,,G,CO13800,29 nov  2019 ,,Roubaix,Hommelet ,59100 ,782.0,86000, honoraires à la charge du vendeur, radiateur gaz individuel, 4, 6 ,1.0, 1 ,,1.0,,, 110,6.0
+100,158,D,,E,96888MX2220,13 dec  2019 ,5 nov  2019 ,Roubaix,,59100,864.0,95000, honoraires à la charge du vendeur,, 4, 5 ,, 1 ,,,,, 110,
+101,En cours de réalisation,NA,En cours de réalisation,NA,24742283,21 nov  2019 ,,Tourcoing,,59200,1118.0,123000, honoraires à la charge du vendeur, AU SOL GAZ COLLECTIF, 5, 6 ,1.0,,,1.0,,,,
+102,179,D,41,E,4333UBI,8 nov  2019 ,,Tourcoing,Gambetta ,59200 ,1091.0,127000,  6,, 5, 6 ,,,1.0,1.0,,, 110,
+103,152,D,42,E,53_VMA550000523,,16 dec  2019 ,Roubaix,Sainte-Elisabeth ,59100 ,1191.0,130990,, radiateur fuel individuel, 4, 4 ,, 1 ,,,,, 110,
+104,Vierge,NA,En cours de réalisation,NA,95262MX2220,13 dec  2019 ,5 nov  2019 ,Roubaix,,59100,1345.0,148000, honoraires à la charge du vendeur,, 4, 5 ,, 1 ,,,1.0,, 110,
+105,133,C,3,A,VM23770-IMMOTRAM2,9 dec  2019 ,,Roubaix,,59100,1236.0,149000,  9, individuel, 4, 5 ,, 1 ,,1.0,,, 110,
+106,145,C,4,A,120901E0HXW3,6 dec  2019 ,,Roubaix,Pile ,59100 ,1478.0,162600, honoraires à la charge du vendeur, individuel, 4, 5 ,, 1 ,,,,, 110,
+107,Vierge,NA,En cours de réalisation,NA,1077,6 dec  2019 ,,Tourcoing,Centre-ville ,59200 ,1500.0,165000, honoraires à la charge du vendeur, gaz individuel, 4, 5 ,, 1 ,,,,, 110,
+108,Vierge,NA,En cours de réalisation,NA,1060,9 dec  2019 ,,Tourcoing,Centre-ville ,59200 ,1509.0,166000, honoraires à la charge du vendeur, gaz individuel, 4, 5 ,, 1 ,,,,, 110,
+109,184,D,43,E,28371329,29 nov  2019 ,26 nov  2019 ,Roubaix,Moulin - Potennerie ,59100 ,1564.0,172000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 3, 4 ,1.0, 2 ,,1.0,,,,
+110,162,D,,E,98451MX2220,13 dec  2019 ,5 nov  2019 ,Roubaix,,59100,1668.0,183500, honoraires à la charge du vendeur,, 4, 6 ,, 1 ,,,,, 110,
+111,NA,NA,NA,NA,0010__10025,18 dec  2019 ,,Tourcoing,Blanche Porte - Flocon ,59200 ,,152000,,,, 2 à 5 ,,,,,,, 44 à 110,
+112,179,D,41,E,4505,7 dec  2019 ,,Tourcoing,Gambetta ,59200 ,1109.0,119900, honoraires à la charge du vendeur, gaz collectif, 4, 5 ,,,,1.0,,,11,
+113,135,C,32,D,VM23882-IMMOTRAM2,,12 dec  2019 ,Roubaix,,59100,2083.0,237000,  5, gaz, 3, 4 ,1.0, 2 ,,1.0,,, 108,123.0
+114,136,C,3,A,so1686,29 nov  2019 ,,Roubaix,Fraternité - Chemin Neuf - Justice ,59100 ,1333.0,144000, honoraires à la charge du vendeur, individuel, 3, 5 ,1.0, 1 ,,1.0,,, 108,40.0
+115,140,C,32,D,TOUR-146k-14336,,,Tourcoing,Brun Pain - Francs - Clinquet ,59200 ,1352.0,146000,,, 3, 5 ,,,,,,, 108,
+116,166,D,8,B,VA23544-IMMOTRAM2,5 dec  2019 ,20 nov  2019 ,Tourcoing,,59200,1435.0,163000,  5, électricité individuel, 3, 4 ,, 1 ,1.0,,1.0,, 108,
+117,En cours de réalisation,NA,En cours de réalisation,NA,27835740,3 nov  2019 ,25 oct  2019 ,Tourcoing,,59200,1509.0,163000, honoraires à la charge du vendeur, RADIATEUR ELECTRICITE INDIVIDUEL, 3, 4 ,1.0, 2 ,,,1.0,,,
+118,Vierge,NA,En cours de réalisation,NA,7356,23 nov  2019 ,,Tourcoing,Virolois ,59200 ,1435.0,164000,  5, électricité individuel, 3, 4 ,, 2 ,,,1.0,, 108,
+119,Vierge,NA,En cours de réalisation,NA,4256UBI,29 nov  2019 ,25 nov  2019 ,Roubaix,Sartel - Carihem - Trois Ponts ,59100 ,1745.0,188500, honoraires à la charge du vendeur,, 4, 5 ,, 1 ,,1.0,,, 108,
+120,NA,NA,NA,NA,107366168,22 oct  2019 ,,Tourcoing,Virolois ,59200 ,,139000,,,, 2 à 5 ,,,,,,, 43 à 107,
+121,En cours de réalisation,NA,En cours de réalisation,NA,28233123,10 dec  2019 ,5 dec  2019 ,Tourcoing,Gambetta ,59200 ,1485.0,157000, honoraires à la charge du vendeur, AU SOL GAZ COLLECTIF, 3, 4 ,, 2 ,1.0,1.0,,1.0,71,
+122,Non soumis,NA,En cours de réalisation,NA,VM23782-IMMOTRAM2,,,Roubaix,,59100,2190.0,242000,  5, gaz individuel, 4, 5 ,1.0, 1 ,,1.0,1.0,, 105,270.0
+123,Non soumis,NA,En cours de réalisation,NA,VM23864-IMMOTRAM2,10 dec  2019 ,25 nov  2019 ,Roubaix,,59100,2714.0,299000,  4, gaz, 3, 4 ,1.0, 2 ,,,1.0,, 105,148.0
+124,230,D,35,D,27917176,,30 oct  2019 ,Tourcoing,,59200,1895.0,199000, honoraires à la charge du vendeur, CONVECTEURS BOIS et ELECT INDIVIDUEL, 3, 4 ,1.0,,,,,,,80.0
+125,En cours de réalisation,NA,En cours de réalisation,NA,28372790,,21 nov  2019 ,Tourcoing,,59200,1571.0,165000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 4, 5 ,1.0, 1 ,,,,,,40.0
+126,227,D,,E,98433MX2220,13 dec  2019 ,5 nov  2019 ,Roubaix,,59100,948.0,99500, honoraires à la charge du vendeur,, 3, 6 ,1.0, 1 ,,,,, 105,15.0
+127,230,D,En cours de réalisation,NA,25678209,25 oct  2019 ,,Tourcoing,,59200,1314.0,138000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 4, 5 ,1.0, 1 ,,,,, 105,10.0
+128,230,D,En cours de réalisation,NA,27650940,,,Tourcoing,,59200,1314.0,138000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 4, 5 ,1.0, 1 ,,,,, 105,10.0
+129,Vierge,NA,En cours de réalisation,NA,4390UBI,,24 nov  2019 ,Tourcoing,Virolois ,59200 ,914.0,96000, honoraires à la charge du vendeur,, 4,,, 1 ,,1.0,,, 105,
+130,227,D,7,B,1074,6 dec  2019 ,,Tourcoing,Centre-ville ,59200 ,1514.0,159000, honoraires à la charge du vendeur, électricité individuel, 3, 4 ,, 1 ,,,,, 105,
+131,189,D,10,B,VA23582-IMMOTRAM2,5 dec  2019 ,25 oct  2019 ,Roubaix,,59100,2724.0,299000,  4, électricité individuel, 3, 4 ,, 2 ,1.0,1.0,1.0,1.0, 105,
+132,158,D,37,E,120901E0GD61,28 nov  2019 ,,Tourcoing,Brun Pain - Francs - Clinquet ,59200 ,1150.0,118500, honoraires à la charge du vendeur, individuel, 3, 4 ,1.0, 1 ,,,,, 103,45.0
+133,NA,NA,NA,NA,ALDGATE,18 dec  2019 ,,Roubaix,Barbieux - Edouard Vaillant - Vauban ,59170 ,,141600,,,, 2 à 5 ,,,,,,, 44 à 103,
+134,160,D,37,E,120901E1HCY9,28 nov  2019 ,18 nov  2019 ,Roubaix,Epeule - Trichon ,59100 ,1156.0,118000, honoraires à la charge du vendeur, individuel, 4, 5 ,1.0, 1 ,,,,,10,18.0
+135,Non soumis,NA,En cours de réalisation,NA,VA23640-IMMOTRAM2,17 dec  2019 ,11 dec  2019 ,Tourcoing,,59200,2471.0,265000,  5, électricité individuel, 3, 4 ,, 1 ,,,1.0,, 102,
+136,NA,NA,NA,NA,,17 dec  2019,,Tourcoing,Gambetta ,59200 ,,127400,,,, 2 à 4 ,,,,,1.0,, 39 à 102,
+137,NA,NA,NA,NA,592,10 dec  2019 ,,Tourcoing,Gambetta ,59200 ,2644.0,269200, honoraires à la charge du vendeur, Individuel Radiateur Gaz, 3, 4 ,, 2 ,1.0,,1.0,1.0,80,
+138,151,D,,A,ROUB-123k-13627,,,Roubaix,Fresnoy - Mackellerie ,59100 ,1218.0,123000,,, 2, 3 ,,,,,,, 101,
+139,296,E,9,B,120901E1GS5A,,19 nov  2019 ,Tourcoing,Croix Rouge ,59200 ,1919.0,192000, honoraires à la charge du vendeur, individuel, 2, 3 ,, 1 ,,,1.0,1.0,06,
+140,233,E,39,E,5389,,,Roubaix,Moulin - Potennerie ,59100 ,2180.0,230000,  5, gaz individuel, 3, 5 ,1.0, 1 ,,1.0,1.0,, 100,385.0
+141,169,D,39,E,120901E1GLTS,,19 nov  2019 ,Tourcoing,Brun Pain - Francs - Clinquet ,59200 ,2225.0,222450, honoraires à la charge du vendeur, individuel, 3, 4 ,1.0, 1 ,,,1.0,, 100,102.0
+142,322,E,61,F,so1673,16 nov  2019 ,,Roubaix,Barbieux - Edouard Vaillant - Vauban ,59100 ,1770.0,177000, honoraires à la charge du vendeur, radiateur gaz individuel, 3, 6 ,1.0,,,,,, 100,100.0
+143,105,C,24,D,CO13801,8 nov  2019 ,,Roubaix,Fraternité - Chemin Neuf - Justice ,59100 ,1772.0,177200, honoraires à la charge du vendeur, radiateur gaz individuel, 4, 6 ,1.0, 1 ,,,,, 100,70.0
+144,230,D,54,E,120901E1770A,28 nov  2019 ,,Tourcoing,Phalempins ,59200 ,1238.0,123750, honoraires à la charge du vendeur, individuel, 3, 4 ,1.0, 1 ,,,,, 100,65.0
+145,230,D,,D,9799303,22 oct  2019 ,,Tourcoing,,59200,1490.0,149000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 3, 4 ,1.0, 1 ,,,,,,50.0
+146,136,C,3,A,120906E1FQOB,28 nov  2019 ,,Roubaix,Fraternité - Chemin Neuf - Justice ,59100 ,1512.0,151200, honoraires à la charge du vendeur, individuel, 3, 5 ,1.0, 1 ,,,,, 100,50.0
+147,235,E,35,D,16424363,,,Tourcoing,,59200,1090.0,109000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 4, 5 ,1.0, 1 ,,1.0,,,,30.0
+148,222,D,27,D,CO13806,,18 dec  2019 ,Roubaix,Sainte-Elisabeth ,59100 ,1550.0,155000, honoraires à la charge du vendeur, radiateur gaz individuel, 4, 5 ,1.0, 1 ,,,,, 100,16.0
+149,230,D,10,B,23453270,22 oct  2019 ,,Tourcoing,,59200,1050.0,105000, honoraires à la charge du vendeur, RADIATEUR ELECTRICITE INDIVIDUEL, 4, 5 ,1.0,,,,,, 100,12.0
+150,Vierge,NA,En cours de réalisation,NA,1108,6 dec  2019 ,5 nov  2019 ,Tourcoing,Centre-ville ,59200 ,1080.0,108000, honoraires à la charge du vendeur, électricité individuel, 3, 4 ,, 1 ,,,,, 100,
+151,179,D,42,E,VM23852-IMMOTRAM2,5 dec  2019 ,15 nov  2019 ,Roubaix,,59100,1040.0,112500,  8, gaz individuel, 3, 4 ,, 1 ,,1.0,,, 100,
+152,Vierge,NA,En cours de réalisation,NA,1084,6 dec  2019 ,,Tourcoing,Centre-ville ,59200 ,1160.0,116000, honoraires à la charge du vendeur,, 3, 4 ,, 1 ,,,,, 100,
+153,215,D,En cours de réalisation,NA,1107,6 dec  2019 ,5 nov  2019 ,Tourcoing,Centre-ville ,59200 ,1180.0,118000, honoraires à la charge du vendeur, gaz individuel, 4, 5 ,, 1 ,,,,, 100,
+154,272,E,28,D,TMAI108700,29 nov  2019 ,,Roubaix,Cartigny - Hutin ,59100 ,1199.0,119900, honoraires à la charge du vendeur, Radiateur Gaz Individuel, 3, 5 ,, 1 ,,,,, 100,
+155,Vierge,NA,En cours de réalisation,NA,1005,6 dec  2019 ,,Tourcoing,Centre-ville ,59200 ,1220.0,122000, honoraires à la charge du vendeur, électricité individuel, 3, 3 ,, 1 ,,,,, 100,
+156,En cours de réalisation,NA,En cours de réalisation,NA,590131393,16 nov  2019 ,5 nov  2019 ,Tourcoing,Phalempins ,59200 ,1200.0,126900,  5, gaz, 3, 5 ,, 1 ,,,,, 100,
+157,Vierge,NA,En cours de réalisation,NA,1135,,6 dec  2019 ,Tourcoing,Centre-ville ,59200 ,1280.0,128000, honoraires à la charge du vendeur, individuel, 3, 4 ,, 1 ,,,,, 100,
+158,150,C,35,D,4396UBI,,5 dec  2019 ,Roubaix,Fraternité - Chemin Neuf - Justice ,59100 ,1615.0,161500, honoraires à la charge du vendeur,, 3, 4 ,, 1 ,,1.0,,, 100,
+159,En cours de réalisation,NA,En cours de réalisation,NA,28596259,,11 dec  2019 ,Tourcoing,,59200,1790.0,179000, honoraires à la charge du vendeur, RADIATEUR ELECTRICITE INDIVIDUEL, 2, 3 ,, 1 ,,,,, 100,
+160,Vierge,NA,En cours de réalisation,NA,1088,6 dec  2019 ,,Tourcoing,Centre-ville ,59200 ,1890.0,189000, honoraires à la charge du vendeur, gaz individuel, 3, 4 ,, 1 ,,,,, 100,
+161,230,D,35,D,27585036,,,Tourcoing,,59200,1930.0,193000, honoraires à la charge du vendeur, RADIATEUR ELECTRICITE INDIVIDUEL, 2, 3 ,1.0, 1 ,,,1.0,1.0,,
+162,172,D,23,D,120901E1F6RL,26 nov  2019 ,6 nov  2019 ,Tourcoing,Belencontre - Fin de la Guerre ,59200 ,2025.0,202500, honoraires à la charge du vendeur, individuel, 4, 5 ,, 1 ,,,,, 100,
+163,Vierge,NA,En cours de réalisation,NA,816,6 dec  2019 ,,Tourcoing,Centre-ville ,59200 ,2100.0,210000, honoraires à la charge du vendeur,, 2, 3 ,, 1 ,,,,, 100,
+164,En cours de réalisation,NA,En cours de réalisation,NA,,,9 dec  2019,Roubaix,,59100,1482.0,154000,  4, Au sol Electrique Individuel, 2, 3 ,,,,,,1.0,16,
+165,58,B,13,C,120901E1ESL7,28 nov  2019 ,21 nov  2019 ,Tourcoing,Belencontre - Fin de la Guerre ,59200 ,2357.0,232900, honoraires à la charge du vendeur, individuel, 3, 4 ,1.0, 1 ,,,1.0,,80,40.0
+166,En cours de réalisation,NA,En cours de réalisation,NA,27618058,29 nov  2019 ,23 oct  2019 ,Tourcoing,Phalempins ,59200 ,949.0,93000, honoraires à la charge du vendeur, RADIATEUR ELECTRICITE INDIVIDUEL, 4, 5 ,1.0, 1 ,,,,,,65.0
+167,Non soumis,NA,Non soumis,NA,4337,5 dec  2019 ,,Tourcoing,Brun Pain - Francs - Clinquet ,59200 ,1112.0,109000, honoraires à la charge du vendeur, électrique individuel, 4, 5 ,, 1 ,,,,, 98,
+168,NA,NA,NA,NA,88931_1895,17 dec  2019 ,,Tourcoing,Brun Pain - Francs - Clinquet ,59200 ,,149000,,,, 2 à 5 ,,,,,,, 45 à 97,
+169,350,F,40,E,28382787,,23 nov  2019 ,Tourcoing,,59200,1804.0,175000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 3, 4 ,1.0, 1 ,,,1.0,,,150.0
+170,En cours de réalisation,NA,En cours de réalisation,NA,120901E199OV,28 nov  2019 ,,Tourcoing,Brun Pain - Francs - Clinquet ,59200 ,2132.0,202500, honoraires à la charge du vendeur, individuel, 4, 5 ,1.0,,,,1.0,, 95,200.0
+171,89,B,20,C,SO1691,29 nov  2019 ,30 oct  2019 ,Roubaix,Epeule - Trichon ,59100 ,1211.0,115000, honoraires à la charge du vendeur, radiateur gaz individuel, 3, 5 ,1.0, 1 ,,1.0,,, 95,40.0
+172,En cours de réalisation,NA,En cours de réalisation,NA,24354333,3 nov  2019 ,,Tourcoing,,59200,1200.0,114000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 4, 5 ,1.0, 1 ,,,,,,25.0
+173,114,C,26,D,4502,4 dec  2019 ,3 dec  2019 ,Tourcoing,Virolois ,59200 ,1232.0,117000, honoraires à la charge du vendeur, gaz individuel, 4, 5 ,, 1 ,,1.0,,, 95,
+174,En cours de réalisation,NA,En cours de réalisation,NA,23551610,22 oct  2019 ,,Tourcoing,,59200,1295.0,123000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 3, 4 ,, 1 ,,,,, 95,
+175,229,D,7,B,ROUB-161k-14427,30 nov  2019 ,,Roubaix,Epeule - Trichon ,59100 ,1695.0,161000,,, 3, 4 ,,,,,,, 95,
+176,230,D,En cours de réalisation,NA,25608833,22 oct  2019 ,,Tourcoing,,59200,1989.0,189000, honoraires à la charge du vendeur, RADIATEUR ELECTRICITE INDIVIDUEL, 2, 3 ,1.0, 1 ,,,1.0,,,
+177,115,C,6,B,120901133AJH,28 nov  2019 ,,Tourcoing,Brun Pain - Francs - Clinquet ,59200 ,2311.0,217225, honoraires à la charge du vendeur, individuel, 2, 3 ,, 1 ,,,1.0,, 94,
+178,86,B,20,C,VA23504-IMMOTRAM2,,,Tourcoing,,59200,3191.0,315000,  5, gaz, 2, 3 ,, 1 ,1.0,,1.0,1.0, 94,
+179,NA,NA,NA,NA,0010__10093,18 dec  2019 ,,Tourcoing,Blanche Porte - Flocon ,59200 ,,158000,,,, 2 à 4 ,,,,,,, 42 à 94,
+180,169,D,39,E,4461,30 nov  2019 ,,Roubaix,Gare Jean Lebas ,59100 ,1273.0,119000, honoraires à la charge du vendeur, gaz collectif, 3, 4 ,, 1 ,1.0,,,,49,
+181,274,E,45,E,4508,14 dec  2019 ,14 dec  2019 ,Tourcoing,Brun Pain - Francs - Clinquet ,59200 ,1172.0,109000, honoraires à la charge du vendeur, gaz individuel, 2, 5 ,, 1 ,,1.0,,, 93,
+182,140,C,32,D,120901E1F49H,28 nov  2019 ,26 nov  2019 ,Tourcoing,Blanc Seau ,59200 ,1511.0,139500, honoraires à la charge du vendeur, individuel, 3, 4 ,1.0, 1 ,,,,,30,29.0
+183,190,D,,E,99051MX2220,13 dec  2019 ,5 nov  2019 ,Roubaix,,59100,1826.0,168000, honoraires à la charge du vendeur,, 3, 5 ,, 1 ,,,1.0,, 92,
+184,136,C,32,D,DGVMA40001299,17 dec  2019 ,,Roubaix,Centre-ville - Crouy ,59100 ,2187.0,199000, honoraires à la charge du vendeur, radiateur gaz individuel, 3, 4 ,1.0, 1 ,,,,, 91,120.0
+185,120,C,25,D,22770302,,,Tourcoing,,59200,2187.0,199000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 4, 5 ,1.0, 1 ,,,,,,75.0
+186,153,D,35,D,839,10 dec  2019 ,,Tourcoing,Centre-ville ,59200 ,1319.0,120000, honoraires à la charge du vendeur, radiateur gaz collectif, 3, 4 ,, 1 ,,1.0,1.0,1.0, 91,
+187,NA,NA,NA,NA,66927,28 nov  2019 ,,Tourcoing,Blanche Porte - Flocon ,59200 ,,166000,,,, 2 à 4 ,,,,,,, 41 à 91,
+188,NA,NA,NA,NA,0063__62611,10 dec  2019 ,,Tourcoing,Virolois ,59200 ,,158900,,,, 2 à 5 ,,,,,,, 43 à 91,
+189,323,E,10,B,120901E0BWVC,28 nov  2019 ,,Tourcoing,Phalempins ,59200 ,1993.0,179400, honoraires à la charge du vendeur, individuel, 3, 4 ,1.0, 1 ,,,,, 90,100.0
+190,18,A,4,A,1VMA10001287,17 dec  2019 ,,Roubaix,Moulin - Potennerie ,59100 ,1556.0,140000, honoraires à la charge du vendeur, radiateur gaz individuel, 3, 4 ,1.0, 1 ,,,,, 90,86.0
+191,199,D,35,D,12090101H2CL,28 nov  2019 ,,Tourcoing,Brun Pain - Francs - Clinquet ,59200 ,1317.0,118500, honoraires à la charge du vendeur, individuel, 4, 5 ,1.0, 1 ,,,,, 90,81.0
+192,Vierge,NA,,G,so1688,29 nov  2019 ,,Roubaix,Fresnoy - Mackellerie ,59100 ,733.0,66000, honoraires à la charge du vendeur,, 4, 5 ,1.0,,,,,, 90,40.0
+193,176,D,31,D,120901E1FL6S,28 nov  2019 ,,Tourcoing,Brun Pain - Francs - Clinquet ,59200 ,1550.0,139500, honoraires à la charge du vendeur, individuel, 2, 3 ,1.0, 1 ,,,,, 90,38.0
+194,En cours de réalisation,NA,En cours de réalisation,NA,28232203,,21 nov  2019 ,Tourcoing,,59200,1256.0,113000, honoraires à la charge du vendeur, AIR PULSE insert gaz INDIVIDUEL, 3, 4 ,1.0,,,,,, 90,14.0
+195,En cours de réalisation,NA,En cours de réalisation,NA,20745742,,,Tourcoing,,59200,1244.0,112000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 3, 4 ,1.0, 1 ,,,,, 90,12.0
+196,135,C,31,D,120901E1DLBS,28 nov  2019 ,30 oct  2019 ,Tourcoing,Brun Pain - Francs - Clinquet ,59200 ,1352.0,121650, honoraires à la charge du vendeur, individuel, 4, 5 ,1.0, 1 ,,,,, 90,9.0
+197,155,D,21,D,120901E14KOJ,18 dec  2019 ,,Tourcoing,Brun Pain - Francs - Clinquet ,59200 ,1375.0,123750, honoraires à la charge du vendeur, individuel, 4, 5 ,1.0, 1 ,,,,, 90,6.0
+198,En cours de réalisation,NA,En cours de réalisation,NA,15794693,,14 nov  2019 ,Tourcoing,,59200,1278.0,115000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 3, 4 ,1.0, 1 ,,,,, 90,5.0
+199,229,D,,A,ROUB-79k-14572,30 nov  2019 ,7 nov  2019 ,Roubaix,Epeule - Trichon ,59100 ,883.0,79500,,,, 4 ,,,,,,, 90,
+200,176,D,41,E,SO1586,29 nov  2019 ,,Roubaix,Moulin - Potennerie ,59100 ,1078.0,97000, honoraires à la charge du vendeur, radiateur gaz individuel, 3, 4 ,, 1 ,,,,, 90,
+201,Vierge,NA,En cours de réalisation,NA,1130,6 dec  2019 ,28 nov  2019 ,Tourcoing,Centre-ville ,59200 ,1244.0,112000, honoraires à la charge du vendeur,, 2, 3 ,, 1 ,,,,, 90,
+202,180,D,180,G,28182244,14 dec  2019 ,14 nov  2019 ,Tourcoing,,59200,1311.0,118000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 3, 4 ,1.0, 1 ,1.0,1.0,,1.0,,
+203,151,D,4,A,120901E1CNMG,28 nov  2019 ,,Tourcoing,Brun Pain - Francs - Clinquet ,59200 ,1317.0,118500, honoraires à la charge du vendeur, individuel, 3, 4 ,, 1 ,,,,, 90,
+204,136,C,28,D,120901E1ECSD,28 nov  2019 ,,Roubaix,Epeule - Trichon ,59100 ,1317.0,118500, honoraires à la charge du vendeur, individuel, 4, 5 ,, 1 ,,,,, 90,
+205,,C,En cours de réalisation,NA,1022,10 dec  2019 ,,Tourcoing,Centre-ville ,59200 ,1356.0,122000, honoraires à la charge du vendeur, gaz individuel, 3, 4 ,, 1 ,,,,, 90,
+206,Vierge,NA,En cours de réalisation,NA,95223MX2220,13 dec  2019 ,22 nov  2019 ,Roubaix,,59100,1411.0,127000, honoraires à la charge du vendeur,, 2, 5 ,, 1 ,,,1.0,, 90,
+207,Vierge,NA,En cours de réalisation,NA,102911MX2220,13 dec  2019 ,13 nov  2019 ,Roubaix,,59100,1444.0,130000, honoraires à la charge du vendeur,, 4, 5 ,, 1 ,,,,, 90,
+208,230,D,En cours de réalisation,NA,24197616,22 oct  2019 ,,Tourcoing,,59200,1533.0,138000, honoraires à la charge du vendeur, RADIATEUR ELECTRICITE INDIVIDUEL, 2, 3 ,, 1 ,,,,, 90,
+209,,C,En cours de réalisation,NA,214,6 dec  2019 ,,Tourcoing,Centre-ville ,59200 ,1544.0,139000, honoraires à la charge du vendeur, gaz individuel, 2, 4 ,, 1 ,,,,, 90,
+210,143,C,6,B,27662641,22 oct  2019 ,,Tourcoing,,59200,1767.0,159000, honoraires à la charge du vendeur, RADIATEUR ELECTRICITE INDIVIDUEL, 2, 3 ,1.0, 1 ,,1.0,1.0,,,
+211,En cours de réalisation,NA,En cours de réalisation,NA,28115311,20 nov  2019 ,13 nov  2019 ,Tourcoing,,59200,1878.0,169000, honoraires à la charge du vendeur, ELECTRICITE, 4, 5 ,, 1 ,,,1.0,, 90,
+212,180,D,180,G,27870368,26 nov  2019 ,27 oct  2019 ,Tourcoing,,59200,2100.0,189000, honoraires à la charge du vendeur, GAZ au sol, 2, 3 ,1.0, 1 ,1.0,,1.0,1.0,,
+213,302,E,70,F,4507,18 dec  2019 ,13 dec  2019 ,Tourcoing,Belencontre - Fin de la Guerre ,59200 ,1281.0,114000, honoraires à la charge du vendeur, gaz individuel, 1, 4 ,, 1 ,,,,, 89,
+214,395,F,72,F,1113,6 dec  2019 ,7 nov  2019 ,Tourcoing,Centre-ville ,59200 ,1320.0,117500, honoraires à la charge du vendeur, radiateur gaz collectif, 3, 4 ,, 1 ,,1.0,1.0,1.0, 89,
+215,En cours de réalisation,NA,En cours de réalisation,NA,120901E1F5IH,18 dec  2019 ,13 dec  2019 ,Roubaix,Sartel - Carihem - Trois Ponts ,59100 ,1227.0,108000, honoraires à la charge du vendeur, individuel, 3, 4 ,1.0,,,,,, 88,42.0
+216,164,D,,E,100331MX2220,13 dec  2019 ,5 nov  2019 ,Roubaix,,59100,1011.0,89000, honoraires à la charge du vendeur,, 4, 5 ,, 1 ,,,,, 88,
+217,Vierge,NA,En cours de réalisation,NA,VA23600-IMMOTRAM2,5 dec  2019 ,4 dec  2019 ,Tourcoing,,59200,1307.0,123500,  7, gaz individuel, 3, 4 ,, 1 ,1.0,1.0,1.0,, 88,
+218,,D,,E,so2000,29 nov  2019 ,6 nov  2019 ,Roubaix,Sainte-Elisabeth ,59100 ,1034.0,90000, honoraires à la charge du vendeur, radiateur gaz individuel, 4, 6 ,1.0, 1 ,,,,, 87,4.0
+219,230,D,55,E,421959005,7 dec  2019 ,,Tourcoing,Marlière ,59200 ,,0,, gaz collectif, 3, 5 ,1.0,,,,,, 85,235.0
+220,Vierge,NA,,G,so2001,29 nov  2019 ,24 nov  2019 ,Roubaix,Cul du Four ,59100 ,1482.0,126000, honoraires à la charge du vendeur, gaz individuel, 3, 4 ,1.0, 1 ,,,,, 85,18.0
+221,122,C,28,D,so2002,24 nov  2019 ,23 nov  2019 ,Roubaix,Moulin - Potennerie ,59100 ,1471.0,132000,  5, radiateur gaz individuel, 4, 6 ,1.0,,,,,, 85,12.0
+222,En cours de réalisation,NA,En cours de réalisation,NA,590131415,16 nov  2019 ,9 nov  2019 ,Roubaix,Fresnoy - Mackellerie ,59100 ,729.0,67900,  9, gaz, 4, 5 ,, 1 ,,,,, 85,
+223,208,D,48,E,1VMA10001211,17 dec  2019 ,,Roubaix,,59100,965.0,82000, honoraires à la charge du vendeur, radiateur gaz individuel, 2, 3 ,, 1 ,,,,, 85,
+224,Vierge,NA,,G,so1687,29 nov  2019 ,,Roubaix,Moulin - Potennerie ,59100 ,1000.0,85000, honoraires à la charge du vendeur, radiateur gaz individuel, 3, 5 ,, 1 ,,,,, 85,
+225,259,E,61,F,14147977,22 oct  2019 ,,Tourcoing,,59200,1153.0,98000, honoraires à la charge du vendeur, RADIATEUR GAZ COLLECTIF, 4, 5 ,1.0, 1 ,1.0,1.0,,1.0,,
+226,143,C,33,D,SO1999,29 nov  2019 ,7 nov  2019 ,Roubaix,Barbieux - Edouard Vaillant - Vauban ,59100 ,1600.0,136000, honoraires à la charge du vendeur,, 3, 5 ,,,,,,, 85,
+227,153,D,6,B,VA23608-IMMOTRAM2,5 dec  2019 ,12 nov  2019 ,Roubaix,,59100,1647.0,148500,  6, électricité individuel, 2, 3 ,, 1 ,,,1.0,1.0, 85,
+228,,C,En cours de réalisation,NA,TOUR_DES_PRES_CR,,3 dec  2019 ,Roubaix,Sainte-Elisabeth ,59100 ,955.0,80240,,, 2, 3 ,,,,,,, 84,
+229,NA,NA,NA,NA,960,10 dec  2019 ,16 nov  2019 ,Tourcoing,Gambetta ,59200 ,3645.0,299000, honoraires à la charge du vendeur, Individuel Radiateur Gaz, 3, 4 ,, 1 ,1.0,,1.0,1.0,03,
+230,,D,En cours de réalisation,NA,pointcentral-t4-80m-DI,4 dec  2019 ,3 dec  2019 ,Tourcoing,Gambetta ,59200 ,1207.0,99000,,, 3, 4 ,,,,,,, 82,
+231,En cours de réalisation,NA,En cours de réalisation,NA,120901E16V9M,,18 dec  2019 ,Tourcoing,Epidème ,59200 ,1156.0,94350, honoraires à la charge du vendeur, individuel, 3, 4 ,1.0, 1 ,,,,,59,18.0
+232,318,E,18,C,25689948,,,Tourcoing,Gambetta ,59200 ,1543.0,125000, honoraires à la charge du vendeur, CONVECTEURS ELECTRICITE INDIVIDUEL, 3, 4 ,, 2 ,,,,, 81,
+233,En cours de réalisation,NA,En cours de réalisation,NA,28233080,4 dec  2019 ,20 nov  2019 ,Tourcoing,Virolois ,59200 ,1619.0,130000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 3, 4 ,, 1 ,,,,,32,
+234,Non soumis,NA,En cours de réalisation,NA,VM23726-IMMOTRAM2,,11 dec  2019 ,Roubaix,,59100,1963.0,164500,  4, gaz individuel, 2, 3 ,1.0, 1 ,,1.0,1.0,, 80,192.0
+235,266,E,34,D,VM23866-IMMOTRAM2,5 dec  2019 ,28 nov  2019 ,Tourcoing,,59200,2188.0,185000,  5, gaz, 4, 5 ,1.0, 1 ,,,,, 80,112.0
+236,166,D,28,D,120036E1BJ9Y,28 nov  2019 ,,Tourcoing,Malcense - Egalité ,59200 ,1238.0,99000, honoraires à la charge du vendeur, individuel, 2, 4 ,1.0, 1 ,,,,, 80,80.0
+237,191,D,45,E,4476,29 nov  2019 ,,Tourcoing,Marlière ,59200 ,1613.0,129000, honoraires à la charge du vendeur, gaz individuel, 2, 3 ,1.0, 1 ,,,,, 80,80.0
+238,Vierge,NA,,G,so1697,29 nov  2019 ,,Roubaix,Fraternité - Chemin Neuf - Justice ,59100 ,1213.0,97000, honoraires à la charge du vendeur, gaz individuel, 3, 4 ,1.0, 1 ,,,,, 80,20.0
+239,En cours de réalisation,NA,En cours de réalisation,NA,120906E18RJH,28 nov  2019 ,,Roubaix,Hommelet ,59100 ,1288.0,103000, honoraires à la charge du vendeur, individuel, 4, 5 ,1.0, 1 ,,,,, 80,10.0
+240,En cours de réalisation,NA,En cours de réalisation,NA,4153UBI,,13 nov  2019 ,Roubaix,Sainte-Elisabeth ,59100 ,613.0,49000, honoraires à la charge du vendeur,, 2,,,,,1.0,,, 80,
+241,Non soumis,NA,En cours de réalisation,NA,293-2304,,,Tourcoing,Croix Rouge ,59200 ,1063.0,85000,,,, 3 ,,,,,,, 80,
+242,83,B,19,C,CO13774,29 nov  2019 ,,Roubaix,Centre-ville - Crouy ,59100 ,1113.0,89000, honoraires à la charge du vendeur, radiateur gaz individuel, 4, 6 ,, 1 ,,,,, 80,
+243,154,D,48,E,3963UBI,31 oct  2019 ,,Roubaix,Barbieux - Edouard Vaillant - Vauban ,59100 ,1125.0,90000, honoraires à la charge du vendeur,, 4,,, 1 ,,1.0,,, 80,
+244,Non soumis,NA,En cours de réalisation,NA,VM23806-IMMOTRAM2,5 dec  2019 ,,Tourcoing,,59200,1356.0,114000,  5, gaz, 3, 4 ,, 1 ,,,,, 80,
+245,50,A,1,A,72050,,29 nov  2019 ,Roubaix,,59100,1650.0,139900,  5, individuel, 3, 5 ,,,,,,, 80,
+246,196,D,45,E,-1257,18 dec  2019 ,18 nov  2019 ,Roubaix,Barbieux - Edouard Vaillant - Vauban ,59100 ,1797.0,143775, honoraires à la charge du vendeur,, 3, 4 ,, 1 ,,,,, 80,
+247,179,D,41,E,120901E10CQV,28 nov  2019 ,,Tourcoing,Gambetta ,59200 ,1352.0,108000, honoraires à la charge du vendeur, collectif, 3, 4 ,, 1 ,,,,,88,
+248,En cours de réalisation,NA,En cours de réalisation,NA,120901E1IBB5,,18 dec  2019 ,Tourcoing,Virolois ,59200 ,1488.0,118500, honoraires à la charge du vendeur, individuel, 3, 4 ,1.0, 1 ,,,,,62,10.0
+249,NA,NA,NA,NA,,18 dec  2019,,Tourcoing,Centre-ville ,59200 ,,110500,,,, 1 à 4 ,,,,,,, 32 à 79,
+250,189,D,22,D,SO1713,29 nov  2019 ,24 oct  2019 ,Roubaix,Pile ,59100 ,1162.0,92000, honoraires à la charge du vendeur, radiateur gaz individuel, 3, 4 ,1.0, 1 ,,,,,19,35.0
+251,,A,En cours de réalisation,NA,42668,,5 dec  2019 ,Roubaix,,59100,2515.0,198692,,, 3, 4 ,, 1 ,,,,, 79,
+252,Vierge,NA,En cours de réalisation,NA,VM23325-IMMOTRAM2,5 dec  2019 ,3 dec  2019 ,Tourcoing,,59200,1667.0,138500,  6, gaz individuel, 4, 5 ,1.0, 1 ,,,,, 78,72.0
+253,211,D,49,E,120901E1GUCG,28 nov  2019 ,4 nov  2019 ,Tourcoing,Croix Rouge ,59200 ,1386.0,108000, honoraires à la charge du vendeur, individuel, 2, 3 ,,,,,,,94,
+254,NA,NA,NA,NA,0063__62410,10 dec  2019 ,,Roubaix,Barbieux - Edouard Vaillant - Vauban ,59100 ,,192010,,,, 3 à 4 ,,,,,,, 68 à 77,
+255,228,D,53,E,VM23742-IMMOTRAM2,,13 dec  2019 ,Tourcoing,,59200,2597.0,212000,  6, gaz individuel, 3, 4 ,1.0, 1 ,,,,, 77,150.0
+256,146,C,34,D,120906E1A4NZ,3 dec  2019 ,,Roubaix,Cul du Four ,59100 ,1682.0,129500, honoraires à la charge du vendeur, individuel, 2, 4 ,1.0, 1 ,,,,, 77,75.0
+257,NA,NA,NA,NA,79281,11 dec  2019 ,,Tourcoing,Epidème ,59200 ,,0,,,, 2 à 4 ,,,,,,,,
+258,160,D,6,B,4441,,,Tourcoing,Centre-ville ,59200 ,1499.0,114900, honoraires à la charge du vendeur, électrique individuel, 2, 3 ,, 1 ,,,1.0,,65,
+259,221,D,51,E,so1700,29 nov  2019 ,,Roubaix,Fraternité - Chemin Neuf - Justice ,59100 ,2453.0,184000, honoraires à la charge du vendeur, gaz individuel, 3, 4 ,1.0, 1 ,,,,, 75,100.0
+260,En cours de réalisation,NA,En cours de réalisation,NA,24791349,23 nov  2019 ,,Tourcoing,,59200,1093.0,82000, honoraires à la charge du vendeur, GAZ, 3, 4 ,1.0, 1 ,,,,,,25.0
+261,En cours de réalisation,NA,En cours de réalisation,NA,120901E1HW7L,,29 nov  2019 ,Tourcoing,Croix Rouge ,59200 ,1440.0,108000, honoraires à la charge du vendeur, individuel, 3, 4 ,, 1 ,,,,, 75,
+262,NA,NA,NA,NA,ROUBA1,16 nov  2019 ,,Roubaix,Gare Jean Lebas ,59100 ,,109896,,,, 1 à 3 ,,,,,,, 40 à 75,
+263,141,C,33,D,26827896,22 oct  2019 ,,Tourcoing,,59200,1507.0,113000, honoraires à la charge du vendeur, RADIATEUR GAZ INDIVIDUEL, 1, 2 ,, 1 ,,1.0,,1.0, 75,
+264,126,C,29,D,4197UBI,29 nov  2019 ,,Tourcoing,Blanche Porte - Flocon ,59200 ,1532.0,114880, honoraires à la charge du vendeur,, 3, 4 ,, 1 ,,1.0,,, 75,
+265,165,D,38,E,so1607,29 nov  2019 ,,Roubaix,Fraternité - Chemin Neuf - Justice ,59100 ,1973.0,148000, honoraires à la charge du vendeur, radiateur gaz individuel, 3, 5 ,, 1 ,,,,, 75,
+266,,A,En cours de réalisation,NA,42726,12 dec  2019 ,6 dec  2019 ,Roubaix,,59100,2560.0,192010,,, 2, 3 ,, 1 ,,,,, 75,
+267,NA,NA,NA,NA,591,10 dec  2019 ,,Tourcoing,Gambetta ,59200 ,2953.0,219200, honoraires à la charge du vendeur, Individuel Radiateur Gaz, 2, 3 ,, 1 ,1.0,,1.0,1.0,22,
+268,Non soumis,NA,En cours de réalisation,NA,72025,,29 nov  2019 ,Tourcoing,,59200,1081.0,88000,  10, gaz, 3, 6 ,,,,1.0,,, 74,
+269,,A,En cours de réalisation,NA,42578,,4 dec  2019 ,Tourcoing,Bourgogne ,59200 ,3392.0,251000,,, 3, 4 ,, 1 ,,,,, 74,
+270,56,B,13,C,4493,22 nov  2019 ,22 nov  2019 ,Tourcoing,Belencontre - Fin de la Guerre ,59200 ,2036.0,149000, honoraires à la charge du vendeur, gaz collectif, 2, 3 ,, 1 ,1.0,,1.0,1.0,17,
+271,NA,NA,NA,NA,0010__10080,18 dec  2019 ,,Tourcoing,Epidème ,59200 ,,98000,,,, 2 à 4 ,,,,,,, 38 à 73,
+272,Vierge,NA,Vierge,NA,TAPP415647,29 nov  2019 ,,Tourcoing,Gambetta ,59200 ,1568.0,114000, honoraires à la charge du vendeur, Radiateur Electrique Individuel, 2, 3 ,, 1 ,,,1.0,1.0,72,
+273,En cours de réalisation,NA,En cours de réalisation,NA,120901E1D1QK,28 nov  2019 ,,Tourcoing,Blanche Porte - Flocon ,59200 ,1208.0,87000, honoraires à la charge du vendeur, collectif, 3, 4 ,, 1 ,,,1.0,, 72,
+274,106,C,25,D,1095,6 dec  2019 ,22 oct  2019 ,Tourcoing,Centre-ville ,59200 ,1847.0,133000, honoraires à la charge du vendeur, radiateur gaz collectif, 2, 3 ,, 1 ,,1.0,1.0,1.0, 72,
+275,245,E,39,E,VA23632-IMMOTRAM2,11 dec  2019 ,4 dec  2019 ,Roubaix,,59100,2014.0,157000,  8, gaz collectif, 2, 3 ,, 2 ,,1.0,1.0,1.0, 72,
+276,Vierge,NA,En cours de réalisation,NA,1066,6 dec  2019 ,,Tourcoing,Centre-ville ,59200 ,1211.0,86000, honoraires à la charge du vendeur, radiateur gaz collectif, 2, 3 ,, 1 ,,1.0,1.0,1.0, 71,
+277,177,D,41,E,120901E1H721,13 dec  2019 ,5 nov  2019 ,Tourcoing,Phalempins ,59200 ,1393.0,97500, honoraires à la charge du vendeur, individuel, 3, 4 ,1.0, 1 ,,,,, 70,11.0
+278,,D,En cours de réalisation,NA,paulclaudel_T4_-_DI,4 dec  2019 ,3 dec  2019 ,Roubaix,Barbieux - Edouard Vaillant - Vauban ,59100 ,1006.0,70430,, gaz collectif, 3, 4 ,,,,1.0,,, 70,
+279,Vierge,NA,En cours de réalisation,NA,1106,6 dec  2019 ,2 nov  2019 ,Tourcoing,Blanc Seau ,59200 ,1457.0,102000, honoraires à la charge du vendeur, gaz individuel, 2, 3 ,, 1 ,,,,, 70,
+280,En cours de réalisation,NA,En cours de réalisation,NA,26141923,22 oct  2019 ,,Tourcoing,,59200,1986.0,139000, honoraires à la charge du vendeur, ELECTRICITE, 2, 3 ,1.0, 1 ,,,1.0,,,
+281,150,C,150,G,22516806,,,Tourcoing,,59200,2471.0,173000, honoraires à la charge du vendeur, RADIATEUR ELECTRICITE INDIVIDUEL, 2, 3 ,1.0, 1 ,,,,1.0,,
+282,NA,NA,NA,NA,0063__62490,10 dec  2019 ,,Roubaix,Fresnoy - Mackellerie ,59100 ,,167300,,,, 2 à 3 ,,,,,,, 41 à 69,
+283,290,E,8,B,120901E1HENA,28 nov  2019 ,19 nov  2019 ,Tourcoing,Blanche Porte - Flocon ,59200 ,1659.0,113250, honoraires à la charge du vendeur, individuel, 3, 4 ,1.0, 1 ,,,,,27,6.0
+284,191,D,57,F,VA23564-IMMOTRAM2,29 oct  2019 ,,Roubaix,,59100,1366.0,99900,  7, gaz collectif, 2, 3 ,, 1 ,,,,1.0, 68,
+285,180,D,180,G,26786113,22 oct  2019 ,,Tourcoing,,59200,2191.0,149000, honoraires à la charge du vendeur, ELECTRICITE, 2, 3 ,1.0, 1 ,,1.0,1.0,,,
+286,Vierge,NA,Vierge,NA,229,,,Tourcoing,Gambetta ,59200 ,2132.0,154000,  6, électrique individuel, 1, 2 ,, 1 ,,,1.0,1.0, 68,
+287,Non soumis,NA,En cours de réalisation,NA,trg_citygreen_t3_neuf_FV,4 dec  2019 ,3 dec  2019 ,Tourcoing,Malcense - Egalité ,59200 ,2500.0,170000,,, 2, 3 ,,,,,,, 68,
+288,198,D,46,E,120901E12P14,,,Tourcoing,Centre-ville ,59200 ,1358.0,92250, honoraires à la charge du vendeur, collectif, 2, 3 ,, 1 ,,,,1.0,91,
+289,Vierge,NA,Vierge,NA,TAPP416806A,29 nov  2019 ,27 nov  2019 ,Tourcoing,Gambetta ,59200 ,1385.0,94000, honoraires à la charge du vendeur, Radiateur Electrique Individuel, 2, 3 ,, 1 ,,,1.0,1.0,88,
+290,,E,En cours de réalisation,NA,Maurice_Sceve_T3_67,,3 dec  2019 ,Tourcoing,Centre-ville ,59200 ,1431.0,95900,,, 2, 3 ,,,,,,, 67,
+291,Non soumis,NA,En cours de réalisation,NA,citygreen_T3_NEUF_JL,,3 dec  2019 ,Tourcoing,,59200,2373.0,159000,,, 2, 3 ,,,,,1.0,, 67,
+292,NA,NA,NA,NA,,18 dec  2019,,Roubaix,Barbieux - Edouard Vaillant - Vauban ,59100 ,,205000,,,, 3 ,,,,,,, 62 à 66,
+293,NA,NA,NA,NA,10405_1291,17 dec  2019 ,,Tourcoing,Epidème ,59200 ,,113745,,,, 2 à 3 ,,,,,,, 39 à 66,
+294,,D,En cours de réalisation,NA,Tour_des_pres_T3_65m_DI,3 dec  2019 ,,Roubaix,,59100,1003.0,65190,,, 2, 3 ,,,1.0,1.0,,, 65,
+295,Vierge,NA,En cours de réalisation,NA,1081,6 dec  2019 ,,Tourcoing,Centre-ville ,59200 ,1523.0,99000, honoraires à la charge du vendeur,, 2, 4 ,, 1 ,,,,, 65,
+296,162,D,44,E,1VAP10001039,17 dec  2019 ,,Tourcoing,Blanche Porte - Flocon ,59200 ,1585.0,103000, honoraires à la charge du vendeur, radiateur gaz collectif, 1, 3 ,, 1 ,,1.0,1.0,1.0, 65,
+297,NA,NA,NA,NA,963,10 dec  2019 ,16 nov  2019 ,Roubaix,Barbieux - Edouard Vaillant - Vauban ,59100 ,3535.0,229000, honoraires à la charge du vendeur, Individuel Radiateur Gaz, 2, 3 ,, 1 ,1.0,,1.0,1.0,78,
+298,,D,En cours de réalisation,NA,Morilles_T3_ancien_DI,,3 dec  2019 ,Roubaix,Sainte-Elisabeth ,59100 ,1051.0,66200,, gaz collectif, 2, 3 ,,,,,,, 63,
+299,,D,En cours de réalisation,NA,ionesco_T3_ANCIEN_KB,5 dec  2019 ,3 dec  2019 ,Roubaix,Fraternité - Chemin Neuf - Justice ,59100 ,1193.0,75150,, gaz collectif, 2, 3 ,,,,1.0,,, 63,
+300,,D,En cours de réalisation,NA,Bld_Halluin_T3_63_DI,,3 dec  2019 ,Tourcoing,Brun Pain - Francs - Clinquet ,59200 ,1490.0,93900,,, 2, 3 ,,,,,,, 63,
+301,224,D,10,B,26493850,4 dec  2019 ,,Tourcoing,Blanche Porte - Flocon ,59200 ,2397.0,151000, honoraires à la charge du vendeur, RADIATEUR ELECTRICITE INDIVIDUEL, 2, 3 ,, 1 ,1.0,,1.0,1.0, 63,
+302,Non soumis,NA,En cours de réalisation,NA,911,10 dec  2019 ,23 oct  2019 ,Roubaix,Barbieux - Edouard Vaillant - Vauban ,59100 ,5304.0,333091, honoraires à la charge du vendeur,, 1, 2 ,, 1 ,,,,,80,
+303,,D,En cours de réalisation,NA,bdhalluin_T2_DI,,3 dec  2019 ,Tourcoing,Orions - Pont Rompu ,59200 ,1403.0,87000,,, 1, 2 ,,,,,,, 62,
+304,341,F,79,F,26188908,7 dec  2019 ,,Roubaix,Centre-ville - Crouy ,59100 ,1500.0,93000, honoraires à la charge du vendeur, RADIATEUR GAZ COLLECTIF, 2, 3 ,, 1 ,,,,, 62,
+305,226,D,52,E,28302268,,19 nov  2019 ,Tourcoing,,59200,1516.0,94000, honoraires à la charge du vendeur, RADIATEUR GAZ COLLECTIF, 2, 3 ,, 1 ,,1.0,,, 62,
+306,138,C,32,D,25557293,4 dec  2019 ,,Tourcoing,Centre-ville ,59200 ,1677.0,104000, honoraires à la charge du vendeur, RADIATEUR GAZ COLLECTIF, 1, 2 ,, 1 ,,1.0,,1.0, 62,
+307,47,A,11,C,72513,10 dec  2019 ,29 nov  2019 ,Tourcoing,,59200,2613.0,171000,  5, gaz individuel, 2, 3 ,, 1 ,,,1.0,1.0, 62,
+308,Non soumis,NA,Non soumis,NA,TAPP421085,23 nov  2019 ,22 nov  2019 ,Tourcoing,Virolois ,59200 ,1676.0,103500, honoraires à la charge du vendeur, Individuel, 2, 3 ,, 1 ,,,,,75,
+309,,D,En cours de réalisation,NA,claudel_T3_ANCIEN_DI,,3 dec  2019 ,Roubaix,Anseele - Motte Bossut ,59100 ,1001.0,61040,,, 2, 3 ,, 1 ,,,,, 61,
+310,138,C,32,D,25063439,4 dec  2019 ,,Tourcoing,Centre-ville ,59200 ,2147.0,130200, honoraires à la charge du vendeur, RADIATEUR GAZ COLLECTIF, 1, 2 ,, 1 ,,1.0,,1.0,65,
+311,,D,En cours de réalisation,NA,CHEMIN_NEUF_ES,,3 dec  2019 ,Roubaix,Fraternité - Chemin Neuf - Justice ,59100 ,1122.0,67300,,, 2, 3 ,,,,,,, 60,
+312,301,E,52,E,20203146,22 oct  2019 ,,Tourcoing,,59200,1150.0,69000, honoraires à la charge du vendeur, RADIATEUR GAZ COLLECTIF, 2, 3 ,, 1 ,,,,, 60,
+313,188,D,44,E,SO1682,29 nov  2019 ,,Roubaix,Barbieux - Edouard Vaillant - Vauban ,59100 ,1783.0,107000, honoraires à la charge du vendeur, radiateur gaz individuel, 1, 3 ,, 1 ,,,,, 60,
+314,182,D,9,B,120901E15X32,18 dec  2019 ,,Tourcoing,Epidème ,59200 ,2080.0,124800, honoraires à la charge du vendeur, individuel, 2, 3 ,, 1 ,,,1.0,, 60,
+315,,A,En cours de réalisation,NA,42581,,4 dec  2019 ,Roubaix,,59100,3850.0,231000,,, 2, 3 ,, 1 ,,,,, 60,
+316,,D,En cours de réalisation,NA,renaix_t3_ancien_DI_,6 dec  2019 ,3 dec  2019 ,Tourcoing,Virolois ,59200 ,1298.0,76600,,, 2, 3 ,, 1 ,,,,, 59,
+317,193,D,45,E,26982203,29 nov  2019 ,,Tourcoing,Blanc Seau ,59200 ,1390.0,82000, honoraires à la charge du vendeur, RADIATEUR GAZ COLLECTIF, 1, 2 ,, 1 ,,,1.0,, 59,
+318,151,D,,E,99050MX2220,13 dec  2019 ,5 nov  2019 ,Roubaix,,59100,1439.0,84900, honoraires à la charge du vendeur,, 2, 4 ,, 1 ,,,1.0,, 59,
+319,380,F,12,C,27290872,4 dec  2019 ,,Roubaix,Epeule - Trichon ,59100 ,1745.0,102930, honoraires à la charge du vendeur, RADIATEUR ELECTRICITE COLLECTIF, 1, 2 ,,,,,1.0,1.0, 59,
+320,380,F,12,C,SO1617,23 oct  2019 ,,Roubaix,Epeule - Trichon ,59100 ,1698.0,99000, honoraires à la charge du vendeur, radiateur électrique individuel, 2, 3 ,,,,,,,30,
+321,198,D,8,B,1368114,17 dec  2019 ,6 dec  2019 ,Tourcoing,Blanche Porte - Flocon ,59200 ,2690.0,156000, honoraires à la charge du vendeur,, 2, 3 ,,,,,,1.0, 58,
+322,Vierge,NA,Vierge,NA,TAPP409446,29 nov  2019 ,,Tourcoing,Gambetta ,59200 ,1912.0,109000, honoraires à la charge du vendeur, Radiateur Electrique, 2, 3 ,, 1 ,,,1.0,1.0, 57,
+323,Vierge,NA,En cours de réalisation,NA,1038,6 dec  2019 ,,Tourcoing,Centre-ville ,59200 ,1875.0,105000, honoraires à la charge du vendeur, électricité individuel, 2, 3 ,, 1 ,,,1.0,1.0, 56,
+324,372,F,En cours de réalisation,NA,926,6 dec  2019 ,,Tourcoing,Centre-ville ,59200 ,2393.0,134000, honoraires à la charge du vendeur, gaz individuel, 2, 3 ,, 1 ,,,,, 56,
+325,NA,NA,NA,NA,Roubaix,17 dec  2019 ,,Roubaix,Barbieux - Edouard Vaillant - Vauban ,59100 ,3750.0,210000,,,, 3 ,,,,,1.0,1.0, 56,
+326,Vierge,NA,,G,so1714,29 nov  2019 ,26 oct  2019 ,Roubaix,Moulin - Potennerie ,59100 ,1109.0,61000, honoraires à la charge du vendeur, radiateur gaz individuel, 2, 5 ,, 1 ,,,,, 55,
+327,264,E,61,F,27618111,13 nov  2019 ,29 oct  2019 ,Tourcoing,,59200,1982.0,109000, honoraires à la charge du vendeur, RADIATEUR GAZ COLLECTIF, 2, 3 ,1.0,,1.0,1.0,,1.0,,
+328,Vierge,NA,Vierge,NA,TAPP416810A,1 dec  2019 ,27 nov  2019 ,Tourcoing,Gambetta ,59200 ,1566.0,86000, honoraires à la charge du vendeur, Radiateur Electrique Individuel, 1, 2 ,, 1 ,,,1.0,1.0,93,
+329,200,D,15,C,22858796,18 dec  2019 ,,Tourcoing,,59200,1833.0,99000, honoraires à la charge du vendeur, RADIATEUR ELECTRICITE INDIVIDUEL, 1, 2 ,1.0, 1 ,,,,,,
+330,191,D,7,B,VA23480-IMMOTRAM2,5 dec  2019 ,,Roubaix,,59100,1944.0,113000,  7, électricité individuel, 3, 4 ,, 1 ,,,,, 54,
+331,194,D,45,E,120901E1E30Y,,9 dec  2019 ,Roubaix,Fresnoy - Mackellerie ,59100 ,1877.0,97500, honoraires à la charge du vendeur, individuel, 1, 2 ,, 1 ,,,1.0,1.0,95,
+332,,E,En cours de réalisation,NA,Feydeau_T3_ANCIEN_KB,,3 dec  2019 ,Roubaix,Fraternité - Chemin Neuf - Justice ,59100 ,1139.0,58100,, gaz collectif, 2, 3 ,,,,1.0,,, 51,
+333,,E,En cours de réalisation,NA,lamartine_T3_51m__ANCIEN_DI,18 dec  2019 ,17 dec  2019 ,Tourcoing,Croix Rouge ,59200 ,1373.0,70000,,, 2, 3 ,,,,,,, 51,
+334,150,C,41,E,120902E1FATL,10 dec  2019 ,,Roubaix,Epeule - Trichon ,59100 ,1669.0,84900, honoraires à la charge du vendeur, collectif, 1, 2 ,, 1 ,,,,1.0,87,
+335,NA,NA,NA,NA,857,10 dec  2019 ,,Tourcoing,Gambetta ,59200 ,2951.0,148800, honoraires à la charge du vendeur, Individuel Radiateur Gaz, 1, 2 ,, 1 ,,,1.0,1.0,43,
+336,Vierge,NA,Vierge,NA,TMAI108702,29 nov  2019 ,,Roubaix,Moulin - Potennerie ,59100 ,1320.0,66000, honoraires à la charge du vendeur, Radiateur Gaz Individuel, 2, 3 ,1.0, 1 ,,,,, 50,50.0
+337,En cours de réalisation,NA,En cours de réalisation,NA,4638,,9 dec  2019 ,Tourcoing,,59200,1420.0,71000, honoraires à la charge du vendeur,, 1, 2 ,, 1 ,,,,, 50,
+338,157,D,36,E,TAPP415519,29 nov  2019 ,,Roubaix,Cul du Four ,59100 ,1430.0,71500, honoraires à la charge du vendeur, Individuel, 2, 3 ,, 1 ,,,,, 50,
+339,158,D,37,E,1311606,28 nov  2019 ,,Roubaix,Gare Jean Lebas ,59100 ,1620.0,81000, honoraires à la charge du vendeur, gaz collectif, 1, 2 ,,,,1.0,,1.0, 50,
+340,244,E,7,B,12281174,,,Tourcoing,,59200,1327.0,65000, honoraires à la charge du vendeur, AIR PULSE SOLAIRE INDIVIDUEL, 2, 3 ,, 1 ,,,,, 49,
+341,250,E,20,C,1334293,1 nov  2019 ,24 oct  2019 ,Roubaix,Centre-ville - Crouy ,59100 ,1857.0,91000, honoraires à la charge du vendeur,, 1, 2 ,, 1 ,,,1.0,1.0, 49,
+342,,A,En cours de réalisation,NA,43355,,18 dec  2019 ,Roubaix,,59100,2548.0,124842,,, 1, 2 ,, 1 ,,,,, 49,
+343,Non soumis,NA,En cours de réalisation,NA,VA23542-IMMOTRAM2,,,Roubaix,,59100,3265.0,169000,  5, électricité individuel, 1, 2 ,, 1 ,,1.0,1.0,1.0, 49,
+344,231,E,11,C,CO13755,,,Roubaix,Fraternité - Chemin Neuf - Justice ,59100 ,1881.0,92000, honoraires à la charge du vendeur,, 1, 2 ,, 1 ,,,1.0,,92,
+345,Vierge,NA,Vierge,NA,TAPP422007,,18 dec  2019 ,Tourcoing,Gambetta ,59200 ,2012.0,98000, honoraires à la charge du vendeur, Radiateur Electrique Individuel, 12, 2 ,, 1 ,,,1.0,1.0,70,
+346,203,D,8,B,4509,14 dec  2019 ,14 dec  2019 ,Tourcoing,Centre-ville ,59200 ,2457.0,119000, honoraires à la charge du vendeur, électrique individuel, 1, 2 ,, 1 ,,1.0,,,44,
+347,Vierge,NA,En cours de réalisation,NA,949,6 dec  2019 ,,Tourcoing,Centre-ville ,59200 ,1771.0,85000, honoraires à la charge du vendeur, radiateur gaz collectif, 1, 2 ,, 1 ,,1.0,,1.0, 48,
+348,203,D,9,B,TAPP303636,,,Tourcoing,Virolois ,59200 ,1513.0,72550, honoraires à la charge du vendeur, Individuel, 1, 2 ,, 1 ,,,1.0,,95,
+349,217,D,9,B,TAPP411892,,,Tourcoing,Virolois ,59200 ,1726.0,82500, honoraires à la charge du vendeur, Radiateur Electrique Individuel, 1, 2 ,, 1 ,,,1.0,,80,
+350,214,D,9,B,TAPP412164,,,Tourcoing,Centre-ville ,59200 ,1755.0,82500, honoraires à la charge du vendeur, Electrique Individuel, 1, 2 ,, 1 ,,,,, 47,
+351,181,D,6,B,342,29 nov  2019 ,25 oct  2019 ,Tourcoing,Blanche Porte - Flocon ,59200 ,2128.0,106000,  6, radiateur électrique individuel, 1, 2 ,, 1 ,1.0,,1.0,1.0, 47,
+352,En cours de réalisation,NA,En cours de réalisation,NA,26000098,22 oct  2019 ,,Tourcoing,,59200,2110.0,99000, honoraires à la charge du vendeur, ELECTRICITE, 1, 2 ,, 1 ,,1.0,1.0,,92,
+353,58,B,13,C,24736077,4 dec  2019 ,,Tourcoing,Virolois ,59200 ,2683.0,124700, honoraires à la charge du vendeur, RADIATEUR GAZ COLLECTIF, 1, 2 ,, 1 ,1.0,,1.0,1.0,47,
+354,Non soumis,NA,En cours de réalisation,NA,city_green_lot_23_NEUF,13 dec  2019 ,3 dec  2019 ,Tourcoing,Malcense - Egalité ,59200 ,2522.0,116000,,, 1, 2 ,, 1 ,1.0,,1.0,, 46,
+355,228,D,9,B,120901E1AUIC,13 dec  2019 ,,Roubaix,Centre-ville - Crouy ,59100 ,1817.0,81750, honoraires à la charge du vendeur, individuel, 1, 2 ,, 1 ,,,,, 45,
+356,229,D,10,B,1099,10 dec  2019 ,26 oct  2019 ,Tourcoing,Centre-ville ,59200 ,2133.0,96000, honoraires à la charge du vendeur, électricité individuel, 1, 2 ,,,,,1.0,, 45,
+357,158,D,37,E,988,18 dec  2019 ,14 dec  2019 ,Roubaix,Anseele - Motte Bossut ,59100 ,1477.0,72000,  10, Collectif Radiateur Gaz, 1, 2 ,, 1 ,,1.0,,, 44,
+358,Vierge,NA,En cours de réalisation,NA,7696,,13 dec  2019 ,Tourcoing,Gambetta ,59200 ,2159.0,101000,  5, électricité, 1, 2 ,, 1 ,,,,, 44,
+359,,D,En cours de réalisation,NA,Haut_vinage_T2_43m_DI,4 dec  2019 ,3 dec  2019 ,Tourcoing,Epidème ,59200 ,1156.0,49700,,, 1, 2 ,,,,,,, 43,
+360,,D,En cours de réalisation,NA,HAUT_VINAGE_T2_-_ANCIEN_-_AC,6 dec  2019 ,3 dec  2019 ,Tourcoing,Epidème ,59200 ,1209.0,52000,,, 1, 2 ,, 1 ,,,,, 43,
+361,188,D,6,B,25995443,27 nov  2019 ,,Tourcoing,Gambetta ,59200 ,2776.0,119350, honoraires à la charge du vendeur, CONVECTEURS ELECTRICITE INDIVIDUEL, 1, 2 ,, 1 ,1.0,,1.0,1.0, 43,
+362,Vierge,NA,En cours de réalisation,NA,159,,17 dec  2019 ,Tourcoing,Centre-ville ,59200 ,3605.0,155000,  0 € TTC inclus à la charge de l’acquéreur,, 1, 2 ,,,,,1.0,, 43,
+363,Non soumis,NA,En cours de réalisation,NA,VA23442-IMMOTRAM2,4 nov  2019 ,,Tourcoing,,59200,1667.0,75000,  7, gaz collectif, 1, 2 ,, 1 ,,1.0,,, 42,
+364,242,E,33,D,1104,6 dec  2019 ,31 oct  2019 ,Tourcoing,Centre-ville ,59200 ,1786.0,75000, honoraires à la charge du vendeur, gaz, 1, 2 ,, 1 ,,1.0,,, 42,
+365,250,E,12,C,1338955,6 nov  2019 ,,Tourcoing,Gambetta ,59200 ,1952.0,82000, honoraires à la charge du vendeur,, 1, 2 ,, 1 ,,,,1.0, 42,
+366,Non soumis,NA,En cours de réalisation,NA,1319328,,,Tourcoing,Centre-ville ,59200 ,2143.0,90000, honoraires à la charge du vendeur, électricité collectif, 1, 2 ,, 1 ,,,1.0,1.0, 42,
+367,NA,NA,NA,NA,961,10 dec  2019 ,16 nov  2019 ,Tourcoing,Gambetta ,59200 ,4022.0,166000, honoraires à la charge du vendeur, Individuel Radiateur Gaz, 1, 2 ,, 1 ,1.0,,1.0,1.0,27,
+368,Non soumis,NA,En cours de réalisation,NA,188645GTP,,,Tourcoing,Brun Pain - Francs - Clinquet ,59200 ,3488.0,139501, honoraires à la charge du vendeur,, 1, 2 ,,,1.0,,,1.0, 40,
+369,Non soumis,NA,En cours de réalisation,NA,923,10 dec  2019 ,29 oct  2019 ,Roubaix,Barbieux - Edouard Vaillant - Vauban ,59100 ,5319.0,209037, honoraires à la charge du vendeur,,, 1 ,,,,,,1.0,30,
+370,NA,NA,NA,NA,962,10 dec  2019 ,16 nov  2019 ,Roubaix,Barbieux - Edouard Vaillant - Vauban ,59100 ,4073.0,160000, honoraires à la charge du vendeur, Individuel Radiateur Gaz, 1, 2 ,, 1 ,,,1.0,,28,
+371,,A,En cours de réalisation,NA,42580,,4 dec  2019 ,Tourcoing,Bourgogne ,59200 ,2846.0,110999,,, 1, 2 ,,,,,,, 39,
+372,999,G,999,G,VM397-IMMOMETRO2,6 dec  2019 ,30 oct  2019 ,Roubaix,,59100,1829.0,70000,  9, électricité, 1, 2 ,,,,,,, 35,
+373,120,C,22,D,26861373,14 dec  2019 ,,Tourcoing,Virolois ,59200 ,1926.0,67000, honoraires à la charge du vendeur, RADIATEUR ELECTRICITE INDIVIDUEL,, 1 ,, 1 ,1.0,,1.0,1.0,78,
+374,Non soumis,NA,En cours de réalisation,NA,VA23642-IMMOTRAM2,14 dec  2019 ,10 dec  2019 ,Roubaix,,59100,1324.0,49500,  10, électricité individuel,, 1 ,, 1 ,,,1.0,1.0, 34,
+375,215,D,10,B,16769649,,,Tourcoing,,59200,2618.0,89000, honoraires à la charge du vendeur, RADIATEUR ELECTRICITE INDIVIDUEL, 1, 2 ,, 1 ,,,1.0,1.0, 34,
+376,197,D,9,B,25985351,8 nov  2019 ,,Roubaix,Anseele - Motte Bossut ,59100 ,2753.0,92500, honoraires à la charge du vendeur, RADIATEUR ELECTRICITE COLLECTIF,, 1 ,, 1 ,,,1.0,1.0,60,
+377,Non soumis,NA,En cours de réalisation,NA,1362923,3 dec  2019 ,21 oct  2019 ,Tourcoing,Gambetta ,59200 ,2152.0,71000, honoraires à la charge du vendeur, électricité individuel, 1, 2 ,, 1 ,1.0,,1.0,1.0, 33,
+378,,D,En cours de réalisation,NA,RENAIX_T2_ancien_DI,,3 dec  2019 ,Tourcoing,Virolois ,59200 ,1341.0,42900,, gaz individuel, 1, 2 ,,,,,,, 32,
+379,162,D,4,A,TAPP413649,29 nov  2019 ,,Roubaix,Centre-ville - Crouy ,59100 ,2267.0,68000, honoraires à la charge du vendeur, Radiateur Electrique Individuel,, 1 ,, 10 ,,,1.0,1.0, 30,
+380,Vierge,NA,En cours de réalisation,NA,7501178334,17 dec  2019 ,,Roubaix,Hommelet ,59100 ,3667.0,77000, honoraires à la charge du vendeur, électricité,, 1 ,, 1 ,,,,, 21,
+381,114,C,5,A,GB00069588,5 dec  2019 ,3 dec  2019 ,Roubaix,,59100,2528.0,45500, honoraires à la charge du vendeur,,, 1 ,,,,,,1.0, 18,
+382,114,C,5,A,GB00045681,28 nov  2019 ,,Roubaix,,59100,2667.0,48000, honoraires à la charge du vendeur,,, 1 ,,,,,,1.0, 18,
+383,114,C,50,E,1375686,17 dec  2019 ,9 dec  2019 ,Roubaix,Fresnoy - Mackellerie ,59100 ,3406.0,61300, honoraires à la charge du vendeur, électricité individuel,, 1 ,, 1 ,,,,, 18,
+384,,D,En cours de réalisation,NA,Tourelles_T2_47_DI,,3 dec  2019 ,Roubaix,,59100,,48300,,, 1, 2 ,,,,,,,,
+385,,D,En cours de réalisation,NA,Albert_Prouvost_T3_71_DI,,3 dec  2019 ,Roubaix,,59100,,71300,,, 2, 3 ,,,,,,,,
+386,Non soumis,NA,En cours de réalisation,NA,-1214,18 dec  2019 ,,Roubaix,Centre-ville - Crouy ,59100 ,,164300, honoraires à la charge du vendeur,,, 1 ,,,,,,,,
