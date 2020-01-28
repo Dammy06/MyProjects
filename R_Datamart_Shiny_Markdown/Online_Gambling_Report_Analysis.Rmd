@@ -1,0 +1,300 @@
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+```{r Load Packages, include=FALSE}
+library(ggplot2)
+library(knitr)
+library(readxl)
+library(dplyr)
+library(magrittr)
+library(latexpdf)
+library(pandocfilters)
+```
+```{r Load File, include=FALSE}
+load(file = 'C:/Users/sbadhani/Desktop/R Studio Assigments/Basetable_Gambling.Rdata')
+```
+
+```{r Read File, include=FALSE}
+DataMart_Description<-read_excel("C:/Users/sbadhani/Desktop/R Studio Assigments/DataMart_Description.xlsx")
+```
+
+
+### This is R Markdown marketing Analysis report. It's an automatic report that will change every time when the data is updated. 
+
+
+The report displays some important information and stats about the Gambling data countrywise, Age wise and other factors of the Gamblers. 
+
+
+
+The Below Information shows the marketing metrics for the betting company
+
+
+```{r, echo = FALSE}
+Gambling_Stats = Basetable_Gambling %>% 
+    dplyr::summarise(
+    Max_Gain=round(max(Total_Profit_Gambling,na.rm=TRUE)),
+    Max_Bets = round(max(Total_Bets_Gambling,na.rm=TRUE)),
+    Max_Stakes = round(max(Total_Stakes,na.rm=TRUE)),
+    Max_Winnings = round(max(Total_Winnings,na.rm=TRUE)),
+    Min_Gain=round(min(Total_Profit_Gambling,na.rm=TRUE)),
+    Min_Bets = round(min(Total_Bets_Gambling,na.rm=TRUE)),
+    Min_Stakes = round(min(Total_Stakes,na.rm=TRUE)),
+    Min_Winnings = round(min(Total_Winnings,na.rm=TRUE)),
+    Mean_Gain=round(mean(Total_Profit_Gambling,na.rm=TRUE)),
+    Mean_Bets = round(mean(Total_Bets_Gambling,na.rm=TRUE)),
+    Mean_Stakes = round(mean(Total_Stakes,na.rm=TRUE)),
+    Mean_Winnings = round(mean(Total_Winnings,na.rm=TRUE)),
+    Mean_Gain=round(sd(Total_Profit_Gambling,na.rm=TRUE)),
+    Mean_Bets = round(sd(Total_Bets_Gambling,na.rm=TRUE)),
+    Mean_Stakes = round(sd(Total_Stakes,na.rm=TRUE)),
+    Mean_Winnings = round(sd(Total_Winnings,na.rm=TRUE)),
+    Frequency = round(sum(Total_No_Days_Played_Gambling,na.rm=TRUE)),
+    Gamblers=length(unique(UserID)))
+
+knitr:: kable(Gambling_Stats)
+```
+
+
+
+The Below Information shows the TOP 10 Country that has generated high Profit   
+
+```{r, echo = FALSE}
+
+ 
+ countryRmark = 
+ Basetable_Gambling %>% 
+ dplyr::group_by (Country_Name)%>% 
+ dplyr::summarise(
+       Total_Profit=round(sum(!is.na(Total_Profit_Gambling))),
+       Profit_margin=sum(Total_Profit_Margin_Pcnt),
+       Age = round(mean(AGE,na.rm=TRUE),0),
+       TotalBets = round(sum(!is.na(Total_Bets_Gambling))),
+       TotalStakes = round(sum(!is.na(Total_Stakes))),
+       TotalWinnings = round(sum(!is.na(Total_Winnings))),
+       Frequency_Played = round(sum(!is.na(Total_No_Days_Played_Gambling))),
+       Gamblers=length(unique(UserID)))
+
+countryRmark = countryRmark[order(-countryRmark$Total_Profit),]
+
+knitr:: kable(countryRmark[1:10,])
+```
+
+
+
+
+The Below Information shows the Profit made by each Age group 
+
+```{r, echo = FALSE}
+Age_Group<-   Basetable_Gambling %>% 
+              dplyr::group_by (Age_Group)%>% 
+              dplyr::summarise(
+               Total_Profit=round(sum(!is.na(Total_Profit_Gambling))),
+               Profit_margin=sum(Total_Profit_Margin_Pcnt),
+               Age = round(mean(AGE),0),
+               TotalBets = round(sum(!is.na(Total_Bets_Gambling))),
+               TotalStakes = round(sum(!is.na(Total_Stakes))),
+               TotalWinnings = round(sum(!is.na(Total_Winnings))),
+               Frequency_Played = round(sum(!is.na(Total_No_Days_Played_Gambling))),
+               Gamblers=length(unique(UserID)))
+
+Age_Group = Age_Group[order(-Age_Group$Total_Profit),]
+
+knitr:: kable(Age_Group[1:5,])
+```
+
+
+### Top 5 Number of Gamblers per Age Group : 
+
+```{r, echo = FALSE}
+ Gamblers_perAge = Basetable_Gambling %>% 
+                    dplyr::group_by (Age_Group)%>% 
+                    dplyr::summarise(
+                    Gamblers=length(unique(UserID)))
+
+
+Gamblers_perAge = Gamblers_perAge[order(Gamblers_perAge$Gamblers),]
+Gamblers_perAge = Gamblers_perAge[1:5,]
+Gamblers_perAge = Gamblers_perAge[order(Gamblers_perAge$Gamblers),]
+
+
+
+ggplot(data = Gamblers_perAge, aes(x=`Age_Group`, y= Gamblers)) + 
+  geom_bar(stat = "identity") +
+  coord_flip() + labs(title="Number of Gamblers per Age Group", x="Age_Group", y="Number of Gamblers")
+```
+
+
+###The Below Information shows the Top 10 Profit achieved per Language 
+
+```{r, echo = FALSE}
+LanguageRMark<-   Basetable_Gambling %>% 
+              dplyr::group_by (Language_Description)%>% 
+              dplyr::summarise(
+               Total_Profit=round(sum(!is.na(Total_Profit_Gambling))),
+               Profit_margin=sum(Total_Profit_Margin_Pcnt),
+               Age = round(mean(AGE),0),
+               TotalBets = round(sum(!is.na(Total_Bets_Gambling))),
+               TotalStakes = round(sum(!is.na(Total_Stakes))),
+               TotalWinnings = round(sum(!is.na(Total_Winnings))),
+               Frequency_Played = round(sum(!is.na(Total_No_Days_Played_Gambling))),
+               Gamblers=length(unique(UserID)))
+
+LanguageRMark = LanguageRMark[order(-LanguageRMark$Total_Profit),]
+
+knitr:: kable(LanguageRMark[1:10,])
+```
+
+
+
+### Number Of Gamblers per Application:
+
+```{r, echo = FALSE}
+ ApplicationRmark = Basetable_Gambling %>%
+                    dplyr::group_by(Application_Description) %>%
+                    dplyr::summarise(
+                    Total_Profit=round(sum(!is.na(Total_Profit_Gambling))),
+                    Gamblers=length(unique(UserID)))
+
+
+ApplicationRmark = ApplicationRmark[order(-ApplicationRmark$Gamblers),]
+ApplicationRmark = ApplicationRmark[1:5,]
+ApplicationRmark = ApplicationRmark[order(-ApplicationRmark$Gamblers),]
+
+
+
+ggplot(data = ApplicationRmark, aes(x=`Application_Description`, y= Gamblers)) + 
+  geom_bar(stat = "identity") +
+  coord_flip() + labs(title="Number of users per Application", x="Application", y="Number of Gamblers")
+```
+
+
+### Number Of Loyal Gamblers and their status:
+
+
+```{r, echo = FALSE}
+ LoyaltyRmark = Basetable_Gambling %>% 
+                    dplyr::group_by (Loyalty_Status)%>% 
+                    dplyr::summarise(
+                    Gamblers=length(unique(UserID)))
+
+
+LoyaltyRmark = LoyaltyRmark[order(-LoyaltyRmark$Gamblers),]
+LoyaltyRmark = LoyaltyRmark[1:3,]
+LoyaltyRmark = LoyaltyRmark[order(-LoyaltyRmark$Gamblers),]
+
+
+
+ggplot(data = LoyaltyRmark, aes(x=`Loyalty_Status`, y= Gamblers)) + 
+  geom_bar(stat = "identity") +
+  coord_flip() + labs(title="Number of Gamblers per Loyalty", x="Loyalty_Status", y="Number of Gamblers")
+```
+
+
+### Most Played day of the Sports Gambling:
+
+
+```{r, echo = FALSE}
+ SportsRmark = Basetable_Gambling %>% 
+                    dplyr::group_by (MostPlayed_Day_Sp)%>% 
+                    dplyr::summarise(
+                    Gamblers=length(unique(UserID)))
+
+
+SportsRmark = SportsRmark[order(-SportsRmark$Gamblers),]
+SportsRmark = SportsRmark[1:7,]
+SportsRmark = SportsRmark[order(-SportsRmark$Gamblers),]
+
+
+
+ggplot(data = SportsRmark, aes(x=`MostPlayed_Day_Sp`, y= Gamblers)) + 
+  geom_bar(stat = "identity") +
+  coord_flip() + labs(title="Number of Gamblers per Day", x="Days_Played", y="Number of Gamblers")
+```
+
+### Most Played Month of the Sports Gambling:
+
+
+```{r, echo = FALSE}
+ Sports_Month = Basetable_Gambling %>% 
+                    dplyr::group_by (Most_Played_Month_Sp)%>% 
+                    dplyr::summarise(
+                    Gamblers=length(unique(UserID)))
+
+Sports_Month = Sports_Month[1:8,]
+
+ggplot(data = Sports_Month, aes(x=`Most_Played_Month_Sp`, y= Gamblers)) + 
+  geom_bar(stat = "identity") +
+  coord_flip() + labs(title="Number of Gamblers per Month", x="Month", y="Number of Gamblers")
+```
+
+
+### Most Played day of the Casino:
+
+
+```{r, echo = FALSE}
+Casino = Basetable_Gambling %>% 
+                    dplyr::group_by (MostPlayed_Day_Ca)%>% 
+                    dplyr::summarise(
+                    Gamblers=length(unique(UserID)))
+
+Casino = Casino[1:7,]
+
+
+ggplot(data = Casino, aes(x=`MostPlayed_Day_Ca`, y= Gamblers)) + 
+  geom_bar(stat = "identity") +
+  coord_flip() + labs(title="Number of Gamblers per Day", x="Days_Played", y="Number of Gamblers")
+```
+
+### Most Played day of the Games:
+
+
+```{r, echo = FALSE}
+Games = Basetable_Gambling %>% 
+                    dplyr::group_by (MostPlayed_Day_Ga)%>% 
+                    dplyr::summarise(
+                    Gamblers=length(unique(UserID)))
+
+Games = Games[1:7,]
+
+
+ggplot(data = Games, aes(x=`MostPlayed_Day_Ga`, y= Gamblers)) + 
+  geom_bar(stat = "identity") +
+  coord_flip() + labs(title="Number of Gamblers per Day", x="Days_Played", y="Number of Gamblers")
+```
+
+
+### Most Played day of the Poker:
+
+
+```{r, echo = FALSE}
+Poker = Basetable_Gambling %>% 
+                    dplyr::group_by (Most_Played_Day_Po)%>% 
+                    dplyr::summarise(
+                    Gamblers=length(unique(UserID)))
+
+Poker = Poker[1:7,]
+
+
+ggplot(data = Poker, aes(x=`Most_Played_Day_Po`, y= Gamblers)) + 
+  geom_bar(stat = "identity") +
+  coord_flip() + labs(title="Number of Gamblers per Day", x="Days_Played", y="Number of Gamblers")
+```
+
+
+
+
+### Datamart & variables description:
+
+The datamart(basetable) was created by merging four differents files: Demographics, UserDailyAggregation,PokerChipConversions and ActualSportsGambling. 
+
+The Datamart consist of the important marketing metrics for the betting company and the behaviour of each unique user.
+
+The below information is the description of each variable in the datamart which has been used in visualization and can help in making marketing strategy.
+
+
+```{r,  echo = FALSE}
+kable(DataMart_Description)
+```
+
+
