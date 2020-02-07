@@ -1,0 +1,12 @@
+name: Text_Analysis
+title: Text_Analysis
+username:
+account: damsubhamoy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1774944
+bundleId: 2781983
+url: https://damsubhamoy.shinyapps.io/Text_Analysis/
+when: 1581069982.2872
+asMultiple: FALSE
+asStatic: FALSE
