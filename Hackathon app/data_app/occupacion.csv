@@ -1,0 +1,21 @@
+Literal,Descriptivo
+100,Artesanos y Orfebres
+200,"Auxiliares Administrativos, Empleados de Correos, Oficinistas y Similares"
+300,"Empleados del Hogar, Servicios de Limpieza y Cuidado de Personas"
+400,"Empleados sin cargo, actividades manuales, físicas, y/o mediante vehiculo, maquinaria, manipulado"
+500,Empleados sin cargo actividades interpersonales y/o de cara al público
+600,Empleados sin cargo actividades técnicas y/o intelectuales
+700,Sector Publico y Cargos electos Administraciones Públicas no Locales
+800,Jefes y Encargados Sector Privado
+900,Funciones y cargos básicos e intermedios Sector Público
+1000,Gerencia de empresas de menos de 10 asalariados (todos productos y servicios)
+1100,Gerencia de empresas sin asalariados (todos productos y servicios)
+1200,"Directores Generales, de Departamento, y Gerencia de empresas de más de 10 asalariados"
+1300,"Profesionales de la Salud, Farmacia y Veterinaria excluyendo médicos y dentistas"
+1400,"Pescadores, Ganaderos y Agricultores"
+1500,"Policias, Guardias Civiles, Militares, Bomberos y funcionarios de prisión"
+1600,Profesionales de la enseñanza
+1700,"Profesionales de la Música, Moda, Artes Plásticas, Cultura y Deportes"
+1800,Profesionales de la Política y Cargos electos Administraciones Locales
+1900,"Profesiones superiores: Arquitectos, Ingenieros, Médicos, Dentistas, Abogados, Jueces, Magistrados,"
+2000,Vendedores ambulantes
